@@ -1,4 +1,6 @@
-class longestCommonPrefix {
+import java.util.Arrays;
+
+class LongestCommonPrefix {
     public String longestCommonPrefix(String[] strs) {
         Arrays.sort(strs);
         String ans="";

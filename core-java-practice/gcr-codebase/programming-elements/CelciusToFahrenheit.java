@@ -1,4 +1,4 @@
-class celciusToFahrenhiet{
+class CelciusToFahrenhiet{
     public static void main(String args[]){
         double celsius = 12.0;
         double fahrenheit = (celsius * 9/5) + 32;

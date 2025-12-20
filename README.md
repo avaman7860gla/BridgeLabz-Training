@@ -13,6 +13,24 @@ Each day focuses on **building strong fundamentals**, writing **clean code**, an
 
 ---
 
+### 📂 File Structure
+
+```
+BridgeLabz-Training
+├── main
+│   └── README.md
+│
+└── core-java-practice
+    ├── gcr-codebase
+    │   ├── programming-elements
+    │   └── control-flows
+    │
+    ├── leet-code-codebase
+    │
+    └── scenerio-based
+```
+---
+
 ## 🗓️ Day-wise Learning Timeline
 
 ###  Day 1: GitHub Basics & Repository Setup  

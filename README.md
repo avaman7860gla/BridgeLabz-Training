@@ -23,7 +23,8 @@ BridgeLabz-Training
 └── core-java-practice
     ├── gcr-codebase
     │   ├── programming-elements
-    │   └── control-flows
+    │   ├── control-flows
+    │   └── arrays
     │
     ├── leet-code-codebase
     │
@@ -98,4 +99,27 @@ BridgeLabz-Training
 📌 **Outcome:** Ability to build logic-driven Java programs  
 
 ---
+
+### 🧩 Day 5: Scenario-Based Problems & Arrays  
+**Applying logic to real-world problems**
+
+- Solved **scenario-based problems** using concepts learned in previous days
+- Applied fundamentals from:
+  - Java Basics
+  - Programming Elements
+  - Control Flow Statements
+- Worked on **2 real-world scenario-based problems** focusing on logic building
+
+- Learned and practiced **Arrays in Java**
+- Topics covered:
+  - Array declaration and initialization
+  - Accessing and updating array elements
+  - Iterating arrays using loops
+- Solved **array-based assignment problems**
+
+📌 **Arrays & Scenario-Based Assignment Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+
+📌 **Outcome:** Ability to solve real-world problems using arrays and core Java logic  
+
 

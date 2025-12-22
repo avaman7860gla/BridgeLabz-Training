@@ -101,7 +101,7 @@ BridgeLabz-Training
 
 ---
 
-### 🧩 Day 5: Scenario-Based Problems & Arrays  
+###  Day 5: Scenario-Based Problems & Arrays  
 **Applying logic to real-world problems**
 
 - Solved **scenario-based problems** using concepts learned in previous days
@@ -122,5 +122,31 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 
 📌 **Outcome:** Ability to solve real-world problems using arrays and core Java logic  
+
+---
+
+###  Day 6: Strings & Exception Handling  
+**Handling text and runtime errors gracefully**
+
+- Learned **String concepts in Java**
+- Topics covered:
+  - String creation and immutability
+  - Common String methods (`length()`, `charAt()`, `substring()`, `equals()`, etc.)
+  - String comparison and manipulation
+- Solved multiple **string-based problems**
+
+- Learned **Exception and Exception Handling**
+- Topics covered:
+  - What are exceptions
+  - Types of exceptions (checked & unchecked)
+  - `try`, `catch`, `finally` blocks
+  - `throw` and `throws` keywords
+- Implemented **exception handling** in programs to handle runtime errors safely
+
+📌 **Strings & Exception Handling Assignment Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+
+📌 **Outcome:** Ability to manipulate strings efficiently and handle runtime exceptions effectively  
+
 
 

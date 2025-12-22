@@ -25,7 +25,8 @@ BridgeLabz-Training
     │   ├── programming-elements
     │   ├── control-flows
     │   ├── arrays
-    │   └── strings
+    │   ├── strings
+    │   └── extras
     │
     ├── leet-code-codebase
     │
@@ -125,15 +126,23 @@ BridgeLabz-Training
 
 ---
 
-###  Day 6: Strings & Exception Handling  
-**Handling text and runtime errors gracefully**
+###  Day 6: Strings, Methods & Exception Handling  
+**Handling text, modular code, and runtime errors gracefully**
 
 - Learned **String concepts in Java**
 - Topics covered:
   - String creation and immutability
-  - Common String methods (`length()`, `charAt()`, `substring()`, `equals()`, etc.)
+  - Common String inbuilt methods  
+    (`length()`, `charAt()`, `substring()`, `equals()`, `toUpperCase()`, `toLowerCase()`, etc.)
   - String comparison and manipulation
-- Solved multiple **string-based problems**
+- Solved **extra practice problems** using String inbuilt functions
+
+- Learned **Java Methods**
+- Topics covered:
+  - Method declaration and definition
+  - Method calling
+  - Parameters and return types
+  - Reusability of code using methods
 
 - Learned **Exception and Exception Handling**
 - Topics covered:
@@ -141,12 +150,14 @@ BridgeLabz-Training
   - Types of exceptions (checked & unchecked)
   - `try`, `catch`, `finally` blocks
   - `throw` and `throws` keywords
-- Implemented **exception handling** in programs to handle runtime errors safely
+- Implemented **exception handling** to handle runtime errors safely
 
-📌 **Strings & Exception Handling Assignment Solution** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+📌 **Strings, Methods & Exception Handling Assignment Solution** 👉  
+[Click Here for String](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+[Click Here for Java Mathods](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+[Click Here for Extras](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
 
-📌 **Outcome:** Ability to manipulate strings efficiently and handle runtime exceptions effectively  
+📌 **Outcome:** Ability to write modular Java programs, manipulate strings efficiently, and handle runtime exceptions effectively  
 
 
 

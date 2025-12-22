@@ -24,7 +24,8 @@ BridgeLabz-Training
     ├── gcr-codebase
     │   ├── programming-elements
     │   ├── control-flows
-    │   └── arrays
+    │   ├── arrays
+    │   └── strings
     │
     ├── leet-code-codebase
     │

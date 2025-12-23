@@ -18,19 +18,28 @@ Each day focuses on **building strong fundamentals**, writing **clean code**, an
 ```
 BridgeLabz-Training
 ├── main
-│   └── README.md
+|   └── README.md
 │
-└── core-java-practice
-    ├── gcr-codebase
-    │   ├── programming-elements
-    │   ├── control-flows
-    │   ├── arrays
-    │   ├── strings
-    │   └── extras
-    │
-    ├── leet-code-codebase
-    │
-    └── scenerio-based
+├── core-java-practice
+|    ├── gcr-codebase
+|    │   ├── programming-elements
+|    │   ├── control-flows
+|    │   ├── arrays
+|    │   ├── strings
+|    │   └── extras
+|    │
+|    ├── leet-code-codebase
+|    │
+|    └── scenerio-based
+|
+├── oops
+|     |--gcr-codebase
+|     |    ├── class-and-objects
+|     |    └── java-constructor
+|     ├── leet-code-codebase
+|     │
+|     └── scenerio-based
+
 ```
 ---
 
@@ -153,11 +162,51 @@ BridgeLabz-Training
 - Implemented **exception handling** to handle runtime errors safely
 
 📌 **Strings, Methods & Exception Handling Assignment Solution** 👉  
-[Click Here for String](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
-[Click Here for Java Mathods](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
-[Click Here for Extras](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
+-[Click Here for String](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+-[Click Here for Java Mathods](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+-[Click Here for Extras](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
 
 📌 **Outcome:** Ability to write modular Java programs, manipulate strings efficiently, and handle runtime exceptions effectively  
 
+---
+
+###  Day 7: OOP Fundamentals & Core Java Concepts  
+**Building object-oriented thinking in Java**
+
+- Learned **Object-Oriented Programming (OOP) fundamentals**
+- Core concepts covered:
+  - Class and Object
+  - Encapsulation
+  - Abstraction
+  - Inheritance
+  - Polymorphism
+
+- Learned **Java Constructors**
+- Topics covered:
+  - Default constructors
+  - Parameterized constructors
+  - Constructor overloading
+  - Role of constructors in object initialization
+
+- Learned **Instance vs. Class Variables**
+- Topics covered:
+  - Difference between instance variables and static (class) variables
+  - Memory allocation and scope
+  - Use cases of each type
+
+- Learned **Access Modifiers in Java**
+- Topics covered:
+  - `public`
+  - `private`
+  - `protected`
+  - default (package-private)
+- Understood data hiding and access control using access modifiers
+
+📌 **OOP Fundamentals Assignment Solution** 👉  
+-[Click Here for class and objects](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/class-and-objects)
+-[Click Here for java constructors](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/java-constructor)
+
+
+📌 **Outcome:** Ability to design structured, object-oriented Java programs with proper access control and data encapsulation  
 
 

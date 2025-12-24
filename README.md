@@ -1,12 +1,12 @@
-# 🚀 BridgeLabz CG Training Journey
+# 🚀 BridgeLabz Training Journey
 
-*A structured learning journey through Java fundamentals, programming concepts, and hands-on assignments during the BridgeLabz CG Training Program.*
+*A structured learning journey through Java fundamentals, programming concepts, and hands-on assignments during the BridgeLabz Training Program.*
 
 ---
 
 ## 📖 About This Repository
 
-Welcome to my **BridgeLabz CG Training** repository!  
+Welcome to my **BridgeLabz Training** repository!  
 This repository documents my **day-by-day learning progress**, including **Java programs, assignments, and key concepts** covered during the training.
 
 Each day focuses on **building strong fundamentals**, writing **clean code**, and developing a **problem-solving mindset**.

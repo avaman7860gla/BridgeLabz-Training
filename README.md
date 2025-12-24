@@ -35,7 +35,8 @@ BridgeLabz-Training
 ├── oops
 |     |--gcr-codebase
 |     |    ├── class-and-objects
-|     |    └── java-constructor
+|     |    ├── java-constructor
+|     |    └── static-final-keyword
 |     ├── leet-code-codebase
 |     │
 |     └── scenerio-based
@@ -208,5 +209,23 @@ BridgeLabz-Training
 
 
 📌 **Outcome:** Ability to design structured, object-oriented Java programs with proper access control and data encapsulation  
+
+---
+
+###  Day 8: OOP Keywords & Operators  
+**Controlling object behavior in Java**
+
+- Learned important Java keywords:
+  - `this` → Refers to current object
+  - `static` → Class-level members
+  - `final` → Prevents modification and inheritance
+- Learned **`instanceof` operator** for runtime type checking
+- Solved practice problems using all concepts
+
+📌 **Assignment Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/static-final-keyword)
+
+📌 **Outcome:** Better understanding of object behavior, memory control, and type safety in Java  
+
 
 

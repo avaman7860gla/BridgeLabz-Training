@@ -33,10 +33,14 @@ BridgeLabz-Training
 |    └── scenerio-based
 |
 ├── oops
-|     |--gcr-codebase
+|     ├── gcr-codebase
 |     |    ├── class-and-objects
 |     |    ├── java-constructor
-|     |    └── static-final-keyword
+|     |    ├── static-final-keyword
+|     |    ├── class-diagram
+|     |    ├── inheritance
+|     |    └── encapsulation-polymorphism-abstract-class
+|     |
 |     ├── leet-code-codebase
 |     │
 |     └── scenerio-based
@@ -163,9 +167,9 @@ BridgeLabz-Training
 - Implemented **exception handling** to handle runtime errors safely
 
 📌 **Strings, Methods & Exception Handling Assignment Solution** 👉  
--[Click Here for String](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
--[Click Here for Java Mathods](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
--[Click Here for Extras](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
+- [Click Here for String](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+- [Click Here for Java Mathods](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+- [Click Here for Extras](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
 
 📌 **Outcome:** Ability to write modular Java programs, manipulate strings efficiently, and handle runtime exceptions effectively  
 
@@ -204,8 +208,8 @@ BridgeLabz-Training
 - Understood data hiding and access control using access modifiers
 
 📌 **OOP Fundamentals Assignment Solution** 👉  
--[Click Here for class and objects](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/class-and-objects)
--[Click Here for java constructors](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/java-constructor)
+- [Click Here for class and objects](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/class-and-objects)
+- [Click Here for java constructors](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/java-constructor)
 
 
 📌 **Outcome:** Ability to design structured, object-oriented Java programs with proper access control and data encapsulation  
@@ -226,6 +230,46 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/static-final-keyword)
 
 📌 **Outcome:** Better understanding of object behavior, memory control, and type safety in Java  
+
+---
+
+###  Day 9: Object Modeling & UML Diagrams  
+**Visualizing object-oriented design**
+
+- Learned **object modeling concepts**
+- Topics covered:
+  - Classes vs. Objects in Java
+  - Class Diagrams
+  - Object Diagrams
+  - Sequence Diagrams
+- Understood relationships, structure, and interaction between objects
+- Practiced designing diagrams for Java-based systems
+
+📌 **Object Modeling & UML Diagrams Work** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/class-diagram)
+
+📌 **Outcome:** Ability to model and visualize object-oriented systems using UML diagrams  
+
+---
+
+###  Day 10: Core OOP Principles  
+**Designing flexible and reusable Java programs**
+
+- Studied **core Object-Oriented Programming principles**:
+  - Encapsulation
+  - Polymorphism
+  - Abstraction
+  - Inheritance
+- Learned **Abstract Classes**
+  - Abstract methods and implementation
+  - Use cases of abstract classes
+- Solved practice problems applying OOP principles
+
+📌 **OOP Core Principles Assignment** 👉  
+- [Click Here for Inheritance](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/inheritance)
+- [Click Here for others](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/encapsulation-polymorphism-abstract-class)
+
+📌 **Outcome:** Ability to design scalable, reusable, and maintainable Java applications using OOP concepts  
 
 
 

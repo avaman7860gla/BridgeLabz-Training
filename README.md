@@ -252,24 +252,46 @@ BridgeLabz-Training
 
 ---
 
-###  Day 10: Core OOP Principles  
-**Designing flexible and reusable Java programs**
+###  Day 10: Inheritance in Java  
+**Building relationships between classes**
 
-- Studied **core Object-Oriented Programming principles**:
-  - Encapsulation
-  - Polymorphism
-  - Abstraction
-  - Inheritance
-- Learned **Abstract Classes**
-  - Abstract methods and implementation
-  - Use cases of abstract classes
-- Solved practice problems applying OOP principles
+- Studied **Inheritance** in Object-Oriented Programming
+- Topics covered:
+  - Parent and Child classes
+  - `extends` keyword
+  - Method overriding
+  - Code reusability using inheritance
+- Practiced inheritance-based programs
 
-📌 **OOP Core Principles Assignment** 👉  
-- [Click Here for Inheritance](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/inheritance)
-- [Click Here for others](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/encapsulation-polymorphism-abstract-class)
+📌 **Inheritance Assignment** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/inheritance)
 
-📌 **Outcome:** Ability to design scalable, reusable, and maintainable Java applications using OOP concepts  
+📌 **Outcome:** Ability to build hierarchical class structures and reuse code efficiently  
+
+---
+
+###  Day 11: Encapsulation, Polymorphism & Abstraction  
+**Designing flexible and secure Java applications**
+
+- Studied **Encapsulation**
+  - Data hiding using access modifiers
+  - Getters and setters
+- Studied **Polymorphism**
+  - Method overloading
+  - Method overriding
+- Studied **Abstraction**
+  - Abstract classes
+  - Abstract methods
+- Learned about **Abstract Classes** and their use cases
+- Solved practice problems using OOP principles
+
+📌 **OOP Principles Assignment** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/encapsulation-polymorphism-abstract-class)
+
+📌 **Outcome:** Ability to design secure, flexible, and maintainable Java programs using OOP principles  
+  
+---
+
 
 
 

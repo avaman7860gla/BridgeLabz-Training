@@ -47,7 +47,7 @@ BridgeLabz-Training
 |
 ├── dsa-practice
 |     ├── gcr-codebase
-|     |    ├── 
+|     |    ├── linked-list
 |     |    ├── 
 |     |    ├── 
 |     |    ├── 
@@ -306,6 +306,22 @@ BridgeLabz-Training
 📌 **Outcome:** Ability to design secure, flexible, and maintainable Java programs using OOP principles  
   
 ---
+
+###  Day 11: Linked Lists in Java  
+**Managing dynamic data structures**
+
+- Studied **Linked List data structures**
+- Topics covered:
+  - Singly Linked List
+  - Doubly Linked List
+  - Circular Linked List
+- Understood node structure, traversal, insertion, and deletion
+- Implemented linked list programs in Java
+
+📌 **Linked List Assignment** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
+
+📌 **Outcome:** Ability to implement and work with dynamic linked list data structures in Java  
 
 
 

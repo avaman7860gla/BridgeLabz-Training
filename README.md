@@ -32,7 +32,7 @@ BridgeLabz-Training
 |    │
 |    └── scenerio-based
 |
-├── oops
+├── oops-practice
 |     ├── gcr-codebase
 |     |    ├── class-and-objects
 |     |    ├── java-constructor
@@ -44,6 +44,21 @@ BridgeLabz-Training
 |     ├── leet-code-codebase
 |     │
 |     └── scenerio-based
+|
+├── dsa-practice
+|     ├── gcr-codebase
+|     |    ├── 
+|     |    ├── 
+|     |    ├── 
+|     |    ├── 
+|     |    ├── 
+|     |    └── 
+|     |
+|     ├── leet-code-codebase
+|     │
+|     └── scenerio-based
+|
+
 
 ```
 ---
@@ -208,8 +223,8 @@ BridgeLabz-Training
 - Understood data hiding and access control using access modifiers
 
 📌 **OOP Fundamentals Assignment Solution** 👉  
-- [Click Here for class and objects](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/class-and-objects)
-- [Click Here for java constructors](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/java-constructor)
+- [Click Here for class and objects](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-objects)
+- [Click Here for java constructors](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/java-constructor)
 
 
 📌 **Outcome:** Ability to design structured, object-oriented Java programs with proper access control and data encapsulation  
@@ -227,7 +242,7 @@ BridgeLabz-Training
 - Solved practice problems using all concepts
 
 📌 **Assignment Solution** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/static-final-keyword)
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/static-final-keyword)
 
 📌 **Outcome:** Better understanding of object behavior, memory control, and type safety in Java  
 
@@ -246,7 +261,7 @@ BridgeLabz-Training
 - Practiced designing diagrams for Java-based systems
 
 📌 **Object Modeling & UML Diagrams Work** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/class-diagram)
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-diagram)
 
 📌 **Outcome:** Ability to model and visualize object-oriented systems using UML diagrams  
 
@@ -264,7 +279,7 @@ BridgeLabz-Training
 - Practiced inheritance-based programs
 
 📌 **Inheritance Assignment** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/inheritance)
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
 
 📌 **Outcome:** Ability to build hierarchical class structures and reuse code efficiently  
 
@@ -286,7 +301,7 @@ BridgeLabz-Training
 - Solved practice problems using OOP principles
 
 📌 **OOP Principles Assignment** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops/oops/gcr-codebase/encapsulation-polymorphism-abstract-class)
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-abstract-class)
 
 📌 **Outcome:** Ability to design secure, flexible, and maintainable Java programs using OOP principles  
   

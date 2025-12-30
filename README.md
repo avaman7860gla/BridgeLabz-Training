@@ -48,7 +48,7 @@ BridgeLabz-Training
 ├── dsa-practice
 |     ├── gcr-codebase
 |     |    ├── linked-list
-|     |    ├── 
+|     |    ├── stack-queue-hashmap-hashing-function
 |     |    ├── 
 |     |    ├── 
 |     |    ├── 
@@ -322,6 +322,30 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
 
 📌 **Outcome:** Ability to implement and work with dynamic linked list data structures in Java  
+
+---
+
+###  Day 12: Stack, Queue & Hashing  
+**Working with core data structures**
+
+- Studied **Stack** data structure
+  - LIFO principle
+  - Push, pop, and peek operations
+- Studied **Queue** data structure
+  - FIFO principle
+  - Enqueue and dequeue operations
+- Learned **HashMap & Hashing Function**
+  - Key-value pair storage
+  - Hashing mechanism
+  - Efficient data retrieval
+- Implemented programs using Stack, Queue, and HashMap
+
+📌 **Stack, Queue & HashMap Assignment** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue-hashmap-hashing-function)
+
+📌 **Outcome:** Ability to use core data structures for efficient data storage and processing in Java  
+
+---
 
 
 

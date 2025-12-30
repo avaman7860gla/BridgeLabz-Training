@@ -49,7 +49,7 @@ BridgeLabz-Training
 |     ├── gcr-codebase
 |     |    ├── linked-list
 |     |    ├── stack-queue-hashmap-hashing-function
-|     |    ├── 
+|     |    ├── sorting-algorithms
 |     |    ├── 
 |     |    ├── 
 |     |    └── 
@@ -347,6 +347,22 @@ BridgeLabz-Training
 
 ---
 
+###  Day 13: Sorting Algorithms  
+**Organizing data efficiently**
+
+- Studied **sorting algorithms**
+- Topics covered:
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Quick Sort
+- Understood time complexity and performance comparison
+- Implemented sorting algorithms in Java
+
+📌 **Sorting Algorithms Assignment** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)
+
+📌 **Outcome:** Ability to sort data efficiently using both basic and advanced sorting techniques  
 
 
 

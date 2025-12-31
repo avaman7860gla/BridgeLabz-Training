@@ -50,7 +50,7 @@ BridgeLabz-Training
 |     |    ├── linked-list
 |     |    ├── stack-queue-hashmap-hashing-function
 |     |    ├── sorting-algorithms
-|     |    ├── 
+|     |    ├── linear-and-binary-search
 |     |    ├── 
 |     |    └── 
 |     |
@@ -347,22 +347,37 @@ BridgeLabz-Training
 
 ---
 
-###  Day 13: Sorting Algorithms  
-**Organizing data efficiently**
+###  Day 13: Sorting, Searching & Advanced Java Concepts  
+**Optimizing performance and solving real-world problems**
 
 - Studied **sorting algorithms**
-- Topics covered:
   - Bubble Sort
   - Selection Sort
   - Insertion Sort
   - Quick Sort
-- Understood time complexity and performance comparison
-- Implemented sorting algorithms in Java
 
-📌 **Sorting Algorithms Assignment** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)
+- Studied **searching algorithms**
+  - Linear Search
+  - Binary Search
 
-📌 **Outcome:** Ability to sort data efficiently using both basic and advanced sorting techniques  
+- Learned **StringBuilder & StringBuffer**
+  - Mutable string handling
+  - Performance and thread-safety comparison
+
+- Learned **File Handling Basics**
+  - `FileReader`
+  - `InputStreamReader`
+
+- Solved **one scenario-based problem using OOP concepts**
+  - Applied inheritance, polymorphism, and abstraction
+
+📌 **Sorting, Searching & Advanced Java Assignment** 👉  
+- [Click Here for sorting algorithm](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)
+- [Click Here for linear and binary search](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-and-binary-search)
+- [Click Here for secenrio based oops](https://github.com/avaman7860gla/BridgeLabz-Training/blob/oops-practice/oops-practice/scenerio-based/EmployeeWageProgram.java)
+
+📌 **Outcome:** Ability to optimize programs using sorting and searching, handle files, and apply OOP concepts to real-world problems  
+
 
 
 

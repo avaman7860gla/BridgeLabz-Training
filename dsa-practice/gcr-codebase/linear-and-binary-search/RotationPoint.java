@@ -1,4 +1,4 @@
-public class rotationpoint {
+public class RotationPoint {
     public static int findRotationPoint(int[] arr) {
 
         // use binary search to find rotational point index

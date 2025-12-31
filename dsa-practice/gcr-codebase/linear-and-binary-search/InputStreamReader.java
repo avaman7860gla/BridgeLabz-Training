@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class inputstreamreader {
+public class InputStreamReader {
     public static void main(String[] args) {
 
         // filename to find path

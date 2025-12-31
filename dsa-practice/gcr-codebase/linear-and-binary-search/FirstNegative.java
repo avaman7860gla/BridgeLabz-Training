@@ -1,4 +1,4 @@
-public class firstnegative {
+public class FirstNegative {
     public static int findFirstNegative(int[] arr) {
 
         //loop to iterate

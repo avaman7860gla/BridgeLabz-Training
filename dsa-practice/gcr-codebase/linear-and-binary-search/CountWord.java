@@ -1,6 +1,7 @@
 import java.io.*;
 
-public class countword {
+public class CountWord {
+
     public static void main(String[] args) {
         String filename = "input.txt"; // file path in which we have to find
         String target = "the"; // target word to find in file

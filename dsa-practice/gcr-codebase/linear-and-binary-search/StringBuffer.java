@@ -1,4 +1,4 @@
-public class stringbuffer {
+public class StringBuffer {
     public static String concatStrings(String[] arr) {
 
         // stringbuffer

@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class filereadline {
+public class FileReadLine {
     public static void main(String[] args) {
 
         // filename to find path

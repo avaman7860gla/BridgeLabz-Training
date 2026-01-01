@@ -51,8 +51,7 @@ BridgeLabz-Training
 |     |    ├── stack-queue-hashmap-hashing-function
 |     |    ├── sorting-algorithms
 |     |    ├── linear-and-binary-search
-|     |    ├── 
-|     |    └── 
+|     |    └── time-complexity    
 |     |
 |     ├── leet-code-codebase
 |     │
@@ -379,5 +378,27 @@ BridgeLabz-Training
 📌 **Outcome:** Ability to optimize programs using sorting and searching, handle files, and apply OOP concepts to real-world problems  
 
 
+---
+
+###  Day 14: Runtime Analysis & Complexity  
+**Analyzing and optimizing program performance**
+
+- Learned **Runtime Analysis**
+  - Why performance analysis is important
+- Studied **Big-O Notation**
+  - Expressing algorithm efficiency
+- Analyzed:
+  - Time Complexity
+  - Space Complexity
+- Understood:
+  - Best Case
+  - Worst Case
+  - Average Case complexities
+- Learned **practical guidelines** for optimizing Java code
+
+📌 **Runtime Analysis & Complexity Assignment** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/time-complexity)
+
+📌 **Outcome:** Ability to analyze algorithm performance and write optimized, efficient Java code  
 
 

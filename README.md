@@ -57,7 +57,17 @@ BridgeLabz-Training
 |     │
 |     └── scenerio-based
 |
-
+├── collection-practice
+|     ├── gcr-codebase
+|     |    ├── generics
+|     |    ├── 
+|     |    ├── 
+|     |    ├── 
+|     |    └──    
+|     |
+|     ├── leet-code-codebase
+|     │
+|     └── scenerio-based
 
 ```
 ---
@@ -400,5 +410,27 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/time-complexity)
 
 📌 **Outcome:** Ability to analyze algorithm performance and write optimized, efficient Java code  
+
+---
+
+###  Day 15: Generics in Java  
+**Writing flexible and type-safe code**
+
+- Learned **Generics** and their importance
+- Topics covered:
+  - Type Parameters
+  - Generic Classes
+  - Generic Methods
+  - Bounded Type Parameters
+  - Wildcards
+- Understood compile-time type safety and code reusability
+- Implemented programs using generics
+
+📌 **Generics Assignment** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops)
+
+📌 **Outcome:** Ability to write reusable, type-safe, and flexible Java programs using generics  
+
+
 
 

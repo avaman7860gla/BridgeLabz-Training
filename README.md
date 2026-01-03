@@ -427,7 +427,7 @@ BridgeLabz-Training
 - Implemented programs using generics
 
 📌 **Generics Assignment** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops)
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/generics)
 
 📌 **Outcome:** Ability to write reusable, type-safe, and flexible Java programs using generics  
 

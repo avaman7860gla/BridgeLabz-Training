@@ -60,7 +60,7 @@ BridgeLabz-Training
 ├── collection-practice
 |     ├── gcr-codebase
 |     |    ├── generics
-|     |    ├── 
+|     |    ├── collections
 |     |    ├── 
 |     |    ├── 
 |     |    └──    
@@ -112,7 +112,7 @@ BridgeLabz-Training
 - Practiced through **assignment-based problems**
 
 📌 **Programming Elements Assignment Solution** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 📌 **Outcome:** Improved logical thinking and expression evaluation  
 
@@ -134,7 +134,7 @@ BridgeLabz-Training
 - Solved multiple **decision-making and looping problems**
 
 📌 **Control Flow Assignment Solution** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flows)
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flows)
 
 📌 **Outcome:** Ability to build logic-driven Java programs  
 
@@ -158,7 +158,7 @@ BridgeLabz-Training
 - Solved **array-based assignment problems**
 
 📌 **Arrays & Scenario-Based Assignment Solution** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 
 📌 **Outcome:** Ability to solve real-world problems using arrays and core Java logic  
 
@@ -251,7 +251,7 @@ BridgeLabz-Training
 - Solved practice problems using all concepts
 
 📌 **Assignment Solution** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/static-final-keyword)
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/static-final-keyword)
 
 📌 **Outcome:** Better understanding of object behavior, memory control, and type safety in Java  
 
@@ -270,7 +270,7 @@ BridgeLabz-Training
 - Practiced designing diagrams for Java-based systems
 
 📌 **Object Modeling & UML Diagrams Work** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-diagram)
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-diagram)
 
 📌 **Outcome:** Ability to model and visualize object-oriented systems using UML diagrams  
 
@@ -288,7 +288,7 @@ BridgeLabz-Training
 - Practiced inheritance-based programs
 
 📌 **Inheritance Assignment** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
 
 📌 **Outcome:** Ability to build hierarchical class structures and reuse code efficiently  
 
@@ -310,7 +310,7 @@ BridgeLabz-Training
 - Solved practice problems using OOP principles
 
 📌 **OOP Principles Assignment** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-abstract-class)
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-abstract-class)
 
 📌 **Outcome:** Ability to design secure, flexible, and maintainable Java programs using OOP principles  
   
@@ -328,7 +328,7 @@ BridgeLabz-Training
 - Implemented linked list programs in Java
 
 📌 **Linked List Assignment** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
 
 📌 **Outcome:** Ability to implement and work with dynamic linked list data structures in Java  
 
@@ -350,7 +350,7 @@ BridgeLabz-Training
 - Implemented programs using Stack, Queue, and HashMap
 
 📌 **Stack, Queue & HashMap Assignment** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue-hashmap-hashing-function)
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue-hashmap-hashing-function)
 
 📌 **Outcome:** Ability to use core data structures for efficient data storage and processing in Java  
 
@@ -407,7 +407,7 @@ BridgeLabz-Training
 - Learned **practical guidelines** for optimizing Java code
 
 📌 **Runtime Analysis & Complexity Assignment** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/time-complexity)
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/time-complexity)
 
 📌 **Outcome:** Ability to analyze algorithm performance and write optimized, efficient Java code  
 
@@ -427,10 +427,33 @@ BridgeLabz-Training
 - Implemented programs using generics
 
 📌 **Generics Assignment** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/generics)
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/generics)
 
 📌 **Outcome:** Ability to write reusable, type-safe, and flexible Java programs using generics  
 
+---
+
+###  Day 16: Collections Framework in Java  
+**Managing groups of objects efficiently**
+
+- Studied **Collections Framework overview**
+- Topics covered:
+  - What is the Collections Framework
+  - Hierarchy of Collections Framework
+- Learned **List Interface** and its implementations
+- Learned **Set Interface** and its implementations
+- Learned **Queue & Deque Interfaces**
+- Learned **Map Interface** and its implementations
+- Compared different implementations and their performance
+- Discussed **real-world use cases** and best practices
+
+📌 **Collections Assignment** 👉  
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/collections)
+
+📌 **Scenario-Based Problems** 👉  
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/scenerio-based)
+
+📌 **Outcome:** Ability to design efficient, real-world solutions using appropriate Java collections  
 
 
 

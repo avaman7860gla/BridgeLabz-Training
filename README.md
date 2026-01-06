@@ -1,4 +1,4 @@
-# 🚀 BridgeLabz Training Journey
+# 🚀 BridgeLabz Java Full Stack Training Journey
 
 *A structured learning journey through Java fundamentals, programming concepts, and hands-on assignments during the BridgeLabz Training Program.*
 

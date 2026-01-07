@@ -453,9 +453,6 @@ BridgeLabz-Training
 📌 **Collections Assignment** 👉  
 - [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/collections)
 
-📌 **Scenario-Based Problems** 👉  
-- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/scenerio-based)
-
 📌 **Outcome:** Ability to design efficient, real-world solutions using appropriate Java collections  
 
 

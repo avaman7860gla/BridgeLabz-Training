@@ -61,7 +61,7 @@ BridgeLabz-Training
 |     ├── gcr-codebase
 |     |    ├── generics
 |     |    ├── collections
-|     |    ├── 
+|     |    ├── streams
 |     |    ├── 
 |     |    └──    
 |     |
@@ -455,5 +455,25 @@ BridgeLabz-Training
 
 📌 **Outcome:** Ability to design efficient, real-world solutions using appropriate Java collections  
 
+---
+
+###  Day 17: Review & Java Streams  
+**Revising concepts and handling data streams**
+
+- Reviewed key concepts:
+  - OOP, Generics, HashMap, LinkedList, Exception Handling, DSA
+- Solved **scenario-based problems** using combined Java concepts
+- Learned **Java I/O Streams**
+  - File, Object, ByteArray, Buffered Streams
+  - Reader and Writer
+- Solved practice problems using streams
+
+📌 **Review** 👉  
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/reviews/reviews)
+
+📌 **Java Streams Assignment** 👉  
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/streams)
+
+📌 **Outcome:** Ability to revise core concepts, solve real-world problems, and handle data using Java I/O streams  
 
 

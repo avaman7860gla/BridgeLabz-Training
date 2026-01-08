@@ -62,7 +62,7 @@ BridgeLabz-Training
 |     |    ├── generics
 |     |    ├── collections
 |     |    ├── streams
-|     |    ├── 
+|     |    ├── exceptions
 |     |    └──    
 |     |
 |     ├── leet-code-codebase
@@ -475,5 +475,29 @@ BridgeLabz-Training
 - [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/streams)
 
 📌 **Outcome:** Ability to revise core concepts, solve real-world problems, and handle data using Java I/O streams  
+
+---
+
+###  Day 18: Exception Handling in Java  
+**Managing runtime errors effectively**
+
+- Studied **Exceptions in Java**
+- Topics covered:
+  - Types of Exceptions
+  - Checked Exceptions
+  - Unchecked Exceptions
+  - Custom Exceptions
+- Learned **Exception Handling techniques**
+  - `try-catch` blocks
+  - `try-catch-finally` blocks
+  - `try-with-resources` statement
+  - `throws` clause
+  - `throw` statement
+- Implemented programs to handle runtime errors safely
+
+📌 **Exception Handling Assignment** 👉  
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/exceptions)
+
+📌 **Outcome:** Ability to handle errors gracefully and build robust Java applications  
 
 

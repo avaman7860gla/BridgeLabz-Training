@@ -63,7 +63,7 @@ BridgeLabz-Training
 |     |    ├── collections
 |     |    ├── streams
 |     |    ├── exceptions
-|     |    └──    
+|     |    └── regex-and-junit
 |     |
 |     ├── leet-code-codebase
 |     │
@@ -512,5 +512,32 @@ BridgeLabz-Training
 - Clarified doubts and strengthened conceptual understanding
 
 📌 **Outcome:** Improved confidence and clarity in core Java concepts through review and evaluation  
+
+---
+
+###  Day 20: Regex & JUnit Testing  
+**Validating input and testing Java code**
+
+- Studied **Regular Expressions (Regex)**
+  - Metacharacters and Quantifiers
+  - Common patterns:
+    - Email validation
+    - Password strength
+    - Phone number format
+- Learned **Java Regex API**
+  - `Pattern` and `Matcher`
+  - Methods: `find()`, `matches()`, `replaceAll()`
+
+- Introduced to **JUnit Framework**
+  - JUnit annotations
+  - Writing test cases
+  - Test class structure
+  - Assertions
+
+📌 **Regex & JUnit Assignment** 👉  
+- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/regex-and-junit)
+
+📌 **Outcome:** Ability to validate data using Regex and write reliable unit tests using JUnit  
+
 
 

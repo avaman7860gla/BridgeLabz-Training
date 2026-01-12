@@ -500,4 +500,17 @@ BridgeLabz-Training
 
 📌 **Outcome:** Ability to handle errors gracefully and build robust Java applications  
 
+---
+
+###  Day 19: Core Java Review & Viva  
+**Revising and validating Java fundamentals**
+
+- Attended **review and viva session** on Core Java concepts
+- Revised key topics:
+  - Java Fundamentals
+  - Exception Handling
+- Clarified doubts and strengthened conceptual understanding
+
+📌 **Outcome:** Improved confidence and clarity in core Java concepts through review and evaluation  
+
 

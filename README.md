@@ -319,7 +319,7 @@ BridgeLabz-Training
   
 ---
 
-###  Day 11: Linked Lists in Java  
+###  Day 12: Linked Lists in Java  
 **Managing dynamic data structures**
 
 - Studied **Linked List data structures**
@@ -337,7 +337,7 @@ BridgeLabz-Training
 
 ---
 
-###  Day 12: Stack, Queue & Hashing  
+###  Day 13: Stack, Queue & Hashing  
 **Working with core data structures**
 
 - Studied **Stack** data structure
@@ -359,7 +359,7 @@ BridgeLabz-Training
 
 ---
 
-###  Day 13: Sorting, Searching & Advanced Java Concepts  
+###  Day 14: Sorting, Searching & Advanced Java Concepts  
 **Optimizing performance and solving real-world problems**
 
 - Studied **sorting algorithms**
@@ -393,7 +393,7 @@ BridgeLabz-Training
 
 ---
 
-###  Day 14: Runtime Analysis & Complexity  
+###  Day 15: Runtime Analysis & Complexity  
 **Analyzing and optimizing program performance**
 
 - Learned **Runtime Analysis**
@@ -416,7 +416,7 @@ BridgeLabz-Training
 
 ---
 
-###  Day 15: Generics in Java  
+###  Day 16: Generics in Java  
 **Writing flexible and type-safe code**
 
 - Learned **Generics** and their importance
@@ -436,7 +436,7 @@ BridgeLabz-Training
 
 ---
 
-###  Day 16: Collections Framework in Java  
+###  Day 17: Collections Framework in Java  
 **Managing groups of objects efficiently**
 
 - Studied **Collections Framework overview**
@@ -457,7 +457,7 @@ BridgeLabz-Training
 
 ---
 
-###  Day 17: Review & Java Streams  
+###  Day 18: Review & Java Streams  
 **Revising concepts and handling data streams**
 
 - Reviewed key concepts:
@@ -478,7 +478,7 @@ BridgeLabz-Training
 
 ---
 
-###  Day 18: Exception Handling in Java  
+###  Day 19: Exception Handling in Java  
 **Managing runtime errors effectively**
 
 - Studied **Exceptions in Java**
@@ -502,7 +502,7 @@ BridgeLabz-Training
 
 ---
 
-###  Day 19: Core Java Review & Viva  
+###  Day 20: Core Java Review & Viva  
 **Revising and validating Java fundamentals**
 
 - Attended **review and viva session** on Core Java concepts
@@ -515,7 +515,7 @@ BridgeLabz-Training
 
 ---
 
-###  Day 20: Regex & JUnit Testing  
+###  Day 21: Regex & JUnit Testing  
 **Validating input and testing Java code**
 
 - Studied **Regular Expressions (Regex)**

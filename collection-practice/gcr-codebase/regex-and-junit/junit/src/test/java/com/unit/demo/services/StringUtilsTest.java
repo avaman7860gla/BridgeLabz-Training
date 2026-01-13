@@ -1,5 +1,9 @@
+package com.unit.demo.services;
+
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+
+import com.unit.demo.files.StringUtils;
 
 public class StringUtilsTest {
 

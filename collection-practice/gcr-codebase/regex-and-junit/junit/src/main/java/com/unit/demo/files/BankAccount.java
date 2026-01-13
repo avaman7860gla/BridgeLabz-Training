@@ -1,3 +1,5 @@
+package com.unit.demo.files;
+
 public class BankAccount {
 
     private double balance;

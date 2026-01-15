@@ -535,9 +535,49 @@ BridgeLabz-Training
   - Assertions
 
 📌 **Regex & JUnit Assignment** 👉  
-- [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/regex-and-junit)
+- [Click Here for Regex](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/regex-and-junit)
+- [Click Here for JUnit](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/regex-and-junit/junit)
 
 📌 **Outcome:** Ability to validate data using Regex and write reliable unit tests using JUnit  
+
+---
+
+###  Day 22: Reflection in Java  
+**Inspecting classes and objects at runtime**
+
+- Learned **Reflection in Java**
+- Topics covered:
+  - Understanding reflection
+  - Using reflection in Java
+  - Accessing classes, methods, fields, and constructors at runtime
+  - Integration of **annotations and reflection**
+- Implemented programs using reflection APIs
+
+📌 **Reflection Practice** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/reflection-and-annotations/reflection)
+
+📌 **Outcome:** Ability to inspect and manipulate Java classes dynamically using reflection  
+
+---
+
+###  Day 23: Annotations in Java  
+**Adding metadata and behavior to code**
+
+- Studied **Annotations in Java**
+- Topics covered:
+  - Common built-in annotations
+  - Creating custom annotations
+  - Advanced custom annotations
+  - Real-world use cases
+  - Annotation processing tools
+- Implemented programs using custom annotations
+
+📌 **Annotations Practice** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/reflection-and-annotations/annotations)
+
+📌 **Outcome:** Ability to design and use annotations to enhance Java applications  
+
+---
 
 
 

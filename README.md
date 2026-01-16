@@ -592,8 +592,7 @@ BridgeLabz-Training
   - **Service Layer** – Contains business logic and validations
   - **DAO Layer** – Manages data storage and retrieval (CRUD operations)
   - **Model Layer** – POJO classes representing application data
-- Understood application flow:  
-- Flow: **Presentation → Service → DAO → Model**
+- Understood application flow: **Presentation → Service → DAO → Model**
 
 📌 **Outcome:** Ability to design structured, maintainable, and layered Java applications  
 

@@ -583,5 +583,17 @@ BridgeLabz-Training
 
 ---
 
+###  Day 24: 4-Layer Architecture in Java  
+**Understanding structured application design**
 
+- Learned the **4-Layer Architecture in Java**
+- Layers studied:
+  - **Presentation Layer** – Handles UI, user input/output, calls service layer
+  - **Service Layer** – Contains business logic and validations
+  - **DAO Layer** – Manages data storage and retrieval (CRUD operations)
+  - **Model Layer** – POJO classes representing application data
+- Understood application flow:  
+- Flow: **Presentation → Service → DAO → Model**
+
+📌 **Outcome:** Ability to design structured, maintainable, and layered Java applications  
 

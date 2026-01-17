@@ -596,3 +596,31 @@ BridgeLabz-Training
 
 📌 **Outcome:** Ability to design structured, maintainable, and layered Java applications  
 
+---
+
+###  Day 25: Scenario-Based Problem Solving (DSA & OOP)  
+**Applying data structures to real-world systems**
+
+- Solved **two scenario-based problems** using **DSA, OOP, and Core Java concepts**
+
+- **TrafficManager – Roundabout Vehicle Flow**
+  - Implemented using **Circular Linked List** for vehicle movement
+  - Used **Queue** to manage vehicles waiting to enter
+  - Handled queue overflow and underflow
+  - Printed real-time state of the roundabout
+
+- **TrafficManager Scenario Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/TrafficManagement.java)
+
+
+- **BookShelf – Library Organization System**
+  - Used **HashMap** to map genre → list of books
+  - Managed books using **LinkedList**
+  - Supported dynamic insert and delete operations during borrow/return
+- **BookShelf Scenario Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/LibraryManagementSystem.java)
+
+📌 **Outcome:** Ability to design efficient, real-world systems using DSA, OOP, and Core Java concepts  
+
+---
+

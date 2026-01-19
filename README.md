@@ -624,3 +624,25 @@ BridgeLabz-Training
 
 ---
 
+###  Day 26: CSV Handling & Scenario-Based Problem  
+**Processing structured data and tracking workflows**
+
+- Learned **CSV (Comma-Separated Values) basics**
+- Topics covered:
+  - Introduction to CSV
+  - Reading CSV files
+  - Writing CSV files
+  - Parsing CSV data
+  - Data validation
+
+- Solved **scenario-based problem: ParcelTracker – Delivery Chain Management**
+  - Implemented using **Singly Linked List**
+  - Forward tracking of parcel stages
+  - Added custom intermediate checkpoints
+  - Handled lost or missing parcels using null checks
+
+📌 **ParcelTracker Scenario Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/DeliveryChainManagement.java)
+
+📌 **Outcome:** Ability to work with CSV data and design real-world tracking systems using linked lists  
+

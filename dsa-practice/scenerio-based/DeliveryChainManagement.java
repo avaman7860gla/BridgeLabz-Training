@@ -154,20 +154,19 @@ public class DeliveryChainManagement {
         DeliverySystem deliverySystem=new DeliverySystem();
 
         ParcelTracker parcel1=new ParcelTracker();
-        parcel1.addStage("Warehouse");
+        parcel1.addStage("Packed");
+        parcel1.addStage("Shipped");
         parcel1.addStage("In Transit");
-        parcel1.addStage("Out for Delivery");
         parcel1.addStage("Delivered");
 
         deliverySystem.addParcel("P123", parcel1);
-
         deliverySystem.trackParcel("P123");
         parcel1.trackForward();
         deliverySystem.trackParcel("P123");
-
-        parcel1.insertCheckpoint("In Transit", "Customs Check");
+        parcel1.insertCheckpoint("Shipped", "Quality Check");
         parcel1.displayChain();
-
-        deliverySystem.marlParcelLost("P123", "Customs Check");
+        deliverySystem.marlParcelLost("P123", "In Transit");
+        
+        
     }
 }

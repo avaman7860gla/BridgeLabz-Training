@@ -73,6 +73,16 @@ BridgeLabz-Training
 |     │
 |     └── scenerio-based
 |
+├── io-programming-practice
+|     ├── gcr-codebase
+|     |    ├── csv-file-handling
+|     |   
+|     |  
+|     |
+|     ├── leet-code-codebase
+|     │
+|     └── scenerio-based
+|
 ├── reviews
 
 
@@ -645,4 +655,30 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/DeliveryChainManagement.java)
 
 📌 **Outcome:** Ability to work with CSV data and design real-world tracking systems using linked lists  
+
+---
+
+### 🌐 Day 27: CSV Practice & Scenario-Based Problem  
+**Managing data and navigation history**
+
+- Solved **CSV handling problems**
+  - Reading, writing, and validating CSV data
+  
+📌 **CSV Handling Assignment** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv-data-handling)
+
+
+- Solved **scenario-based problem: BrowserBuddy – Tab History Manager**
+  - Implemented **Doubly Linked List** for browser history
+  - Used **Stack** to restore recently closed tabs
+  - Supported forward and backward navigation
+  - Ensured memory-efficient tab management using pointers
+
+📌 **Tab History Manager Scenario Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/TabHistoryManager.java)
+
+📌 **Outcome:** Ability to manage structured data and implement real-world navigation systems using DSA  
+
+---
+
 

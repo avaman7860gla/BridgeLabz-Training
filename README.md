@@ -76,7 +76,7 @@ BridgeLabz-Training
 ├── io-programming-practice
 |     ├── gcr-codebase
 |     |    ├── csv-file-handling
-|     |   
+|     |    └── json-data
 |     |  
 |     |
 |     ├── leet-code-codebase
@@ -658,7 +658,7 @@ BridgeLabz-Training
 
 ---
 
-### 🌐 Day 27: CSV Practice & Scenario-Based Problem  
+###  Day 27: CSV Practice & Scenario-Based Problem  
 **Managing data and navigation history**
 
 - Solved **CSV handling problems**
@@ -681,4 +681,20 @@ BridgeLabz-Training
 
 ---
 
+###  Day 27: JSON Handling in Java  
+**Working with structured data formats**
+
+- Learned **JSON fundamentals**
+- Topics covered:
+  - Introduction to JSON
+  - Reading JSON data
+  - Writing JSON data
+  - Parsing JSON data
+  - JSON schema validation
+- Solved practice problems using JSON in Java
+
+📌 **JSON Handling Assignment** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json-data/json-demo/src/main/java/code)
+
+📌 **Outcome:** Ability to read, write, parse, and validate JSON data in Java applications  
 

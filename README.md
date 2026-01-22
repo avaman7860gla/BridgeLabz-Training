@@ -48,6 +48,7 @@ BridgeLabz-Training
 ├── dsa-practice
 |     ├── gcr-codebase
 |     |    ├── linked-list
+|     |    ├── address-book-system
 |     |    ├── stack-queue-hashmap-hashing-function
 |     |    ├── sorting-algorithms
 |     |    ├── linear-and-binary-search
@@ -697,4 +698,29 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json-data/json-demo/src/main/java/code)
 
 📌 **Outcome:** Ability to read, write, parse, and validate JSON data in Java applications  
+
+---
+
+###  Day 28: Address Book System   
+**Building a complete contact management system**
+
+- Solved **Address Book problem up to UC12**
+- Implemented features:
+  - Add, edit, delete contacts
+  - Manage multiple contacts and multiple address books
+  - Prevent duplicate entries
+  - Search persons by city or state
+  - View persons by city or state
+  - Count contacts by city or state
+  - Sort contacts by:
+    - Name
+    - City
+    - State
+    - Zip
+- Used **OOP concepts** and **Collections Framework** extensively
+
+📌 **Address Book System** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/address-book-system)
+
+📌 **Outcome:** Ability to design a feature-rich, collection-based Java application using clean OOP principles  
 

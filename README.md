@@ -701,26 +701,32 @@ BridgeLabz-Training
 
 ---
 
-###  Day 28: Address Book System   
-**Building a complete contact management system**
+###  Day 28: Address Book System & Scenario-Based Problem  
+**Managing contacts and evaluating exam workflows**
 
 - Solved **Address Book problem up to UC12**
 - Implemented features:
-  - Add, edit, delete contacts
-  - Manage multiple contacts and multiple address books
+  - Add, edit, and delete contacts
+  - Manage multiple address books
   - Prevent duplicate entries
-  - Search persons by city or state
-  - View persons by city or state
+  - Search and view contacts by city or state
   - Count contacts by city or state
-  - Sort contacts by:
-    - Name
-    - City
-    - State
-    - Zip
-- Used **OOP concepts** and **Collections Framework** extensively
+  - Sort contacts by name, city, state, and zip
+- Applied **OOP concepts** and **Collections Framework**
 
 📌 **Address Book System** 👉  
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/address-book-system)
 
-📌 **Outcome:** Ability to design a feature-rich, collection-based Java application using clean OOP principles  
+
+
+- Solved **scenario-based problem: ExamProctor – Online Exam Review System**
+  - Used **Stack** to track question navigation
+  - Used **HashMap** to store answers (questionID → answer)
+  - Applied functions to auto-calculate exam scores
+
+📌 **Online Exam Review System Scenario Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/OnlineExamReviewSystem.java)
+
+📌 **Outcome:** Ability to build complex, real-world systems using OOP, collections, and DSA concepts  
+
 

@@ -78,7 +78,15 @@ BridgeLabz-Training
 |     ├── gcr-codebase
 |     |    ├── csv-file-handling
 |     |    └── json-data
-|     |  
+|     |
+|     ├── leet-code-codebase
+|     │
+|     └── scenerio-based
+|
+├── java8-features-practice
+|     ├── gcr-codebase
+|     |    ├── lambda-expression
+|     |    └── 
 |     |
 |     ├── leet-code-codebase
 |     │
@@ -728,5 +736,60 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/OnlineExamReviewSystem.java)
 
 📌 **Outcome:** Ability to build complex, real-world systems using OOP, collections, and DSA concepts  
+
+---
+
+###  Day 29: Java 8 Features  
+**Writing concise and functional Java code**
+
+- Studied **Java 8 features**
+- Topics covered:
+  - Lambda Expressions
+  - Method References
+- Learned functional-style programming for cleaner and readable code
+- Implemented programs using Java 8 features
+
+📌 **Outcome:** Ability to write modern, concise, and expressive Java code using Java 8 features  
+
+---
+
+###  Day 30: Interfaces & Functional Programming  
+**Designing flexible and extensible Java applications**
+
+- Submitted **Lambda Expressions assignment**
+
+📌 **Lambda Expression Assignment** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/lambda-expressions)
+
+- Studied **Interfaces in Java**
+- Topics covered:
+  - Defining and implementing interfaces (best practices)
+  - Functional Interfaces
+  - Default methods in interfaces
+  - Static methods in interfaces
+  - Marker Interfaces
+
+📌 **Outcome:** Ability to design modular, flexible, and functional Java applications using interfaces and lambdas  
+
+---
+
+###  Day 31: Scenario-Based Problem – SmartCheckout  
+**Managing billing queues and inventory efficiently**
+
+- Solved **scenario-based problem: SmartCheckout – Supermarket Billing Queue**
+- Implemented features:
+  - Managed customers using **Queue**
+  - Used **HashMap** to fetch item prices and stock efficiently
+  - Updated stock after each purchase
+  - Added and removed customers from the billing queue
+- Applied **DSA and Core Java concepts** to a real-world system
+
+📌 **SmartCheckoutSystem Scenario Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/SmartCheckoutSystem.java)
+
+📌 **Outcome:** Ability to design efficient billing and inventory systems using queues and maps  
+
+---
+
 
 

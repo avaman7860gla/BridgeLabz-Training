@@ -1,6 +1,4 @@
-// SmartHomeLighting.java
-// Demonstrates lambda expressions for smart home lighting automation
-
+// interface
 interface LightAction {
     void activate();
 }
@@ -9,26 +7,26 @@ public class SmartHomeLightingApp {
 
     public static void main(String[] args) {
 
-        // Lambda for motion detection
+        // lambda for motion detection
         LightAction motionTrigger = () -> {
-            System.out.println("Motion detected!");
-            System.out.println("Lights turned ON at medium brightness.");
+            System.out.println("Motion detected");
+            System.out.println("Lights turned ON at medium brightness");
         };
 
-        // Lambda for night time
+        // lambda for night time
         LightAction nightTrigger = () -> {
-            System.out.println("It's night time.");
-            System.out.println("Lights turned ON with warm and dim lighting.");
+            System.out.println("Its night time");
+            System.out.println("Lights turned ON with warm and dim lighting");
         };
 
-        // Lambda for voice command
+        // lambda for voice command
         LightAction voiceTrigger = () -> {
-            System.out.println("Voice command received: 'Turn on lights'");
-            System.out.println("All lights turned ON at full brightness.");
+            System.out.println("Voice command received: Turn on lights");
+            System.out.println("All lights turned ON at full brightness");
         };
 
-        // Simulating different triggers
-        System.out.println("---- Smart Home Lighting System ----\n");
+        // simulating different triggers
+        System.out.println("Smart Home Lighting System:");
 
         motionTrigger.activate();
         System.out.println();

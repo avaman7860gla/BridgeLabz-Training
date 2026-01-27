@@ -413,7 +413,6 @@ BridgeLabz-Training
 
 📌 **Outcome:** Ability to optimize programs using sorting and searching, handle files, and apply OOP concepts to real-world problems  
 
-
 ---
 
 ###  Day 15: Runtime Analysis & Complexity  
@@ -690,7 +689,7 @@ BridgeLabz-Training
 
 ---
 
-###  Day 27: JSON Handling in Java  
+###  Day 28: JSON Handling in Java  
 **Working with structured data formats**
 
 - Learned **JSON fundamentals**
@@ -709,7 +708,7 @@ BridgeLabz-Training
 
 ---
 
-###  Day 28: Address Book System & Scenario-Based Problem  
+###  Day 29: Address Book System & Scenario-Based Problem  
 **Managing contacts and evaluating exam workflows**
 
 - Solved **Address Book problem up to UC12**
@@ -739,7 +738,7 @@ BridgeLabz-Training
 
 ---
 
-###  Day 29: Java 8 Features  
+###  Day 30: Java 8 Features  
 **Writing concise and functional Java code**
 
 - Studied **Java 8 features**
@@ -753,7 +752,7 @@ BridgeLabz-Training
 
 ---
 
-###  Day 30: Interfaces & Functional Programming  
+###  Day 31: Interfaces & Functional Programming  
 **Designing flexible and extensible Java applications**
 
 - Submitted **Lambda Expressions assignment**
@@ -773,7 +772,7 @@ BridgeLabz-Training
 
 ---
 
-###  Day 31: Scenario-Based Problem – SmartCheckout  
+###  Day 32: Scenario-Based Problem – SmartCheckout  
 **Managing billing queues and inventory efficiently**
 
 - Solved **scenario-based problem: SmartCheckout – Supermarket Billing Queue**

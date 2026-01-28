@@ -86,7 +86,7 @@ BridgeLabz-Training
 |
 ├── java8-features-practice
 |     ├── gcr-codebase
-|     |    ├── lambda-expression
+|     |    ├── lambda-expressions
 |     |    └── functional-interfaces
 |     |
 |     ├── leet-code-codebase

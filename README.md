@@ -24,6 +24,7 @@ BridgeLabz-Training
 |    ├── gcr-codebase
 |    │   ├── programming-elements
 |    │   ├── control-flows
+|    │   ├── lexical-twist
 |    │   ├── arrays
 |    │   ├── strings
 |    │   └── extras
@@ -790,5 +791,27 @@ BridgeLabz-Training
 
 ---
 
+###  Day 33: Functional Interfaces & Lexical Twist Problem  
+**Applying functional logic and string transformations**
+
+- Submitted **Functional Interface assignment**
+
+📌 **Functional Interface Assignment** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/functional-interfaces)
+
+
+- Solved **problem: Lexical Twist**
+  - Checked if one word is the reverse of another (case-insensitive)
+  - Applied string transformations based on conditions:
+    - Reverse, lowercase, and vowel replacement (`@`)
+    - Combine words, convert to uppercase
+    - Count vowels and consonants
+    - Printed results based on comparison logic
+- Used **string manipulation, conditional logic, and functions**
+
+📌 **Lexical Twist Problem Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/lexical-twist)
+
+📌 **Outcome:** Ability to apply functional programming concepts and complex string logic to solve problem-based challenges  
 
 

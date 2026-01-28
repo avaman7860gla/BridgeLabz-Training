@@ -38,6 +38,7 @@ BridgeLabz-Training
 |     |    ├── class-and-objects
 |     |    ├── java-constructor
 |     |    ├── static-final-keyword
+|     |    ├── future-logistics
 |     |    ├── class-diagram
 |     |    ├── inheritance
 |     |    └── encapsulation-polymorphism-abstract-class
@@ -812,6 +813,14 @@ BridgeLabz-Training
 📌 **Lexical Twist Problem Solution** 👉  
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/lexical-twist)
 
+
+- Solved **scenario-based problem: FutureLogistics – Billing Automation**
+  - Designed an application to manage goods transport records
+  - Calculated bill charges based on **type of GoodsTransport**
+  - Displayed billing details dynamically as required
+- Applied **OOP, functional logic, and conditional processing**
+
+📌 **FutureLogistics Scenario Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/future-logistics)
+
 📌 **Outcome:** Ability to apply functional programming concepts and complex string logic to solve problem-based challenges  
-
-

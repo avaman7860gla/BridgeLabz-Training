@@ -53,6 +53,7 @@ BridgeLabz-Training
 |     |    ├── address-book-system
 |     |    ├── stack-queue-hashmap-hashing-function
 |     |    ├── sorting-algorithms
+|     |    ├── aero-vigil-problem
 |     |    ├── linear-and-binary-search
 |     |    └── time-complexity    
 |     |
@@ -824,3 +825,29 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/future-logistics)
 
 📌 **Outcome:** Ability to apply functional programming concepts and complex string logic to solve problem-based challenges  
+
+---
+
+###  Day 34: Streams API & Scenario-Based Problem  
+**Functional data processing and system validation**
+
+- Studied **Java Streams API**
+  - Intermediate operations: `filter`, `map`, `flatMap`, `distinct`, `sorted`, `limit`, `skip`
+  - Terminal operations: `collect`, `forEach`, `reduce`, `count`, `anyMatch`, `allMatch`, `noneMatch`
+  - Stateless vs stateful operations
+  - Ordered vs unordered streams
+  - Parallel streams
+  - `forEach()` — Iterable vs Stream
+ 
+📌 **Streams API Practice** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/stream-api)
+
+
+- Solved **scenario-based problem: AeroVigil – Airline Validation System**
+  - Validated flight details, passenger capacity, and fuel levels
+  - Used exception handling to manage invalid inputs
+
+📌 **AeroVigil Scenario Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/aero-vigil-problem)
+
+📌 **Outcome:** Ability to process data functionally and build robust validation systems  

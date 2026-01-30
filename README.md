@@ -71,6 +71,8 @@ BridgeLabz-Training
 |     |    ├── exceptions
 |     |    ├── regex-and-junit
 |     |    |     └── junit
+|     |    ├── junit-test-case
+|     |    |     └── junit
 |     |    └── reflection-and-annotations
 |     |          ├── reflection
 |     |          └── annotations
@@ -879,5 +881,16 @@ BridgeLabz-Training
 📌 **Factory Robot Hazard Analyzer Solution** 👉  
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/factory-robot-hazard-analyzer)
 
+
+- **Bank Account – Deposit & Withdraw System**
+  - Implemented `deposit()` method with validation for negative amounts
+  - Implemented `withdraw()` method with balance check
+  - Threw exceptions for:
+    - Negative deposit amounts
+    - Insufficient funds during withdrawal
+  - Updated account balance securely using exception handling
+
+📌 **Bank Account Scenario (JUnit Test Case) Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/collection-practice/collection-practice/gcr-codebase/junit-test-case/junit/src/test/java/com/unit/demo/services/UnitTest.java)
 
 📌 **Outcome:** Ability to design logical solutions and robust systems using validation and exception handling  

@@ -1,7 +1,7 @@
 abstract class GoodsTransport{
-    private String transportId;
-    private String transportDate;
-    private int transportRating;
+    protected String transportId;
+    protected String transportDate;
+    protected int transportRating;
 
     // Abstract methods
     abstract public String vehicleSelection();

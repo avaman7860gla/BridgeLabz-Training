@@ -25,6 +25,7 @@ BridgeLabz-Training
 |    │   ├── programming-elements
 |    │   ├── control-flows
 |    │   ├── lexical-twist
+|    │   ├── flip-key-logical-problem
 |    │   ├── arrays
 |    │   ├── strings
 |    │   └── extras
@@ -53,6 +54,7 @@ BridgeLabz-Training
 |     |    ├── address-book-system
 |     |    ├── stack-queue-hashmap-hashing-function
 |     |    ├── sorting-algorithms
+|     |    ├── factory-robot-hazard-analyzer
 |     |    ├── aero-vigil-problem
 |     |    ├── linear-and-binary-search
 |     |    └── time-complexity    
@@ -852,3 +854,30 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/aero-vigil-problem)
 
 📌 **Outcome:** Ability to process data functionally and build robust validation systems  
+
+---
+
+###  Day 35: Scenario-Based Problem Solving  
+**Applying logic, validation, and custom exceptions**
+
+- Solved **two scenario-based problems**
+
+- **Flip Key – Logical Problem**
+  - Removed characters with even ASCII values
+  - Reversed the remaining characters
+  - Practiced string manipulation and logical processing
+
+📌 **Flip Key Logical Problem Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/flip-key-logical-problem)
+
+
+- **Factory Robot Hazard Analyzer**
+  - Calculated hazard risk score based on robot and factory parameters
+  - Validated inputs for arm precision, worker density, and machinery state
+  - Used **custom exceptions** for invalid scenarios
+
+📌 **Factory Robot Hazard Analyzer Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/factory-robot-hazard-analyzer)
+
+
+📌 **Outcome:** Ability to design logical solutions and robust systems using validation and exception handling  

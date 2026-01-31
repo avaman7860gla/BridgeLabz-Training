@@ -95,6 +95,7 @@ BridgeLabz-Training
 |     |    ├── lambda-expressions
 |     |    ├── functional-interfaces
 |     |    └── streams-api
+|     |    └── collectors
 |     |
 |     ├── leet-code-codebase
 |     │
@@ -894,3 +895,26 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/collection-practice/collection-practice/gcr-codebase/junit-test-case/junit/src/test/java/com/unit/demo/services/UnitTest.java)
 
 📌 **Outcome:** Ability to design logical solutions and robust systems using validation and exception handling  
+
+---
+
+###  Day 36: Collectors in Java 8  
+**Aggregating and organizing stream data**
+
+- Studied **Collectors** and their role with `Stream.collect()`
+- Learned to:
+  - Transform data
+  - Aggregate data
+  - Group data
+  - Partition data
+- Used common collectors:
+  - `toList()`, `toSet()`, `toMap()`
+  - `joining()`
+  - `groupingBy()`
+  - `partitioningBy()`
+  - `summarizingInt()`
+
+📌 **Collectors Practice** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/collectors)
+
+📌 **Outcome:** Ability to efficiently collect, group, and summarize data using Java 8 Collectors  

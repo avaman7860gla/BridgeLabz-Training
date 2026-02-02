@@ -68,6 +68,7 @@ BridgeLabz-Training
 |     |    ├── generics
 |     |    ├── collections
 |     |    ├── streams
+|     |    ├── stream-buzz
 |     |    ├── exceptions
 |     |    ├── regex-and-junit
 |     |    |     └── junit
@@ -94,8 +95,10 @@ BridgeLabz-Training
 |     ├── gcr-codebase
 |     |    ├── lambda-expressions
 |     |    ├── functional-interfaces
-|     |    └── streams-api
-|     |    └── collectors
+|     |    ├── streams-api
+|     |    ├── collectors
+|     |    └── workshop
+|     |          └── smart-city-transport-management
 |     |
 |     ├── leet-code-codebase
 |     │
@@ -105,6 +108,7 @@ BridgeLabz-Training
 |     ├── gcr-codebase
 |     |    └── design-patterns
 |     |           └── smart-library-management-system
+|     |
 |     ├── leet-code-codebase
 |     │
 |     └── scenerio-based
@@ -953,4 +957,31 @@ BridgeLabz-Training
 📌 **Outcome:** Ability to design scalable systems using GoF patterns and UML modeling  
 
 ---
+
+### 🚀 Day 38: Scenario-Based Applications & Workshop  
+**Analyzing data and designing smart systems**
+
+- **StreamBuzz – Creator Engagement Tracker**
+  - Tracked creators’ weekly likes over 4 weeks using `CreatorStats`
+  - Analyzed engagement data using Java collections and logic
+
+📌 **StreamBuzz Scenario Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/stream-buzz)
+
+
+- **Smart City Transport & Service Management System (Workshop)**
+  - Designed system for buses, metros, taxis, and EV charging stations
+  - Focused on route optimization, scheduling, and passenger data
+  - Used **Java 8 features** for clean and extensible design
+
+📌 **Smart City Workshop Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/workshop/smart-city-transport-management)
+
+📌 **Outcome:** Ability to design data-driven and scalable systems using modern Java features  
+
+---
+
+
+
+
 

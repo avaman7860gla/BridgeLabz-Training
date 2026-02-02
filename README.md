@@ -958,7 +958,7 @@ BridgeLabz-Training
 
 ---
 
-### 🚀 Day 38: Scenario-Based Applications & Workshop  
+###  Day 38: Scenario-Based Applications & Workshop  
 **Analyzing data and designing smart systems**
 
 - **StreamBuzz – Creator Engagement Tracker**
@@ -977,11 +977,20 @@ BridgeLabz-Training
 📌 **Smart City Workshop Solution** 👉  
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/workshop/smart-city-transport-management)
 
+
+- **Food Delivery Order Routing System**
+  - Managed orders using **Queue**
+  - Managed delivery agents using **List**
+  - Assigned orders FIFO to nearest available agent
+  - Implemented OOP classes: `Order`, `Agent`, `DeliveryService`
+  - Used **custom exception** `NoAgentAvailableException`
+  - Supported assign, cancel, and view active deliveries
+
+📌 **Food Delivery Routing Scenario Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/FoodDeliverySystem.java)
+
 📌 **Outcome:** Ability to design data-driven and scalable systems using modern Java features  
 
 ---
-
-
-
 
 

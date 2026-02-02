@@ -101,7 +101,7 @@ BridgeLabz-Training
 |     │
 |     └── scenerio-based
 |
-├── solution-designing-practice
+├── design-patterns-practice
 |     ├── gcr-codebase
 |     |    └── design-patterns
 |     |           └── smart-library-management-system
@@ -948,7 +948,7 @@ BridgeLabz-Training
   - Implemented a sample LMS solution
 
 📌 **Smart Library Management System Solution** 👉  
-[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/solution-designing-practice/solution-designing-practice/gcr-codebase/design-patterns/smart-library-management-system)
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/design-patterns-practice/design-patterns-practice/gcr-codebase/design-patterns/smart-library-management-system)
 
 📌 **Outcome:** Ability to design scalable systems using GoF patterns and UML modeling  
 

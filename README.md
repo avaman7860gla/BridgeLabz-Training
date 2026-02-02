@@ -101,6 +101,14 @@ BridgeLabz-Training
 |     │
 |     └── scenerio-based
 |
+├── solution-designing-practice
+|     ├── gcr-codebase
+|     |    └── design-patterns
+|     |           └── smart-library-management-system
+|     ├── leet-code-codebase
+|     │
+|     └── scenerio-based
+|
 ├── reviews
 
 
@@ -918,3 +926,31 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/collectors)
 
 📌 **Outcome:** Ability to efficiently collect, group, and summarize data using Java 8 Collectors  
+
+---
+
+###  Day 37: GoF Design Patterns & Case Study  
+**Applying design patterns to real-world systems**
+
+- Studied **GoF Design Patterns**
+- Topics covered:
+  - Introduction to GoF patterns
+  - Pattern categories (GoF classification)
+  - Singleton Pattern
+  - Factory Pattern
+  - Observer Pattern
+  - Builder Pattern
+- Practiced **UML designing** for pattern-based systems
+
+- Solved **case study: Smart University Library Management System**
+  - Applied multiple GoF patterns
+  - Designed UML diagrams
+  - Implemented a sample LMS solution
+
+📌 **Smart Library Management System Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/solution-designing-practice/solution-designing-practice/gcr-codebase/design-patterns/smart-library-management-system)
+
+📌 **Outcome:** Ability to design scalable systems using GoF patterns and UML modeling  
+
+---
+

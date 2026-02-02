@@ -1,3 +1,4 @@
+// Ambulance service class
 class AmbulanceService implements EmergencyService, TransportService{
     public String getServiceName(){
         return "Ambulance";

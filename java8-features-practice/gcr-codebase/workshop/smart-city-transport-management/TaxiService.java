@@ -3,12 +3,14 @@ class TaxiService implements TransportService {
     private double fare;
     private String time;
 
+    // Constructor
     public TaxiService(String route, double fare, String time){
         this.route=route;
         this.fare=fare;
         this.time=time;
     }
 
+    // Getters
     public String getServiceName(){
         return "Taxi";
     }

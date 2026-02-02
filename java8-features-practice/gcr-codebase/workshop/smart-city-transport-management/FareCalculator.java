@@ -1,3 +1,4 @@
+@FunctionalInterface
 interface FareCalculator {
-    double claculateFare(double distace, double rate);
+    double calculateFare(double distace, double rate);
 }

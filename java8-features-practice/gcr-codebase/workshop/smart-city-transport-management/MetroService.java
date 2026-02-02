@@ -3,12 +3,14 @@ class MetroService implements TransportService {
     private double fare;
     private String time;
 
+    // Constructor
     public MetroService(String route, double fare, String time){
         this.route=route;
         this.fare=fare;
         this.time=time;
     }
 
+    // getters
     public String getServiceName(){
         return "Metro";
     }

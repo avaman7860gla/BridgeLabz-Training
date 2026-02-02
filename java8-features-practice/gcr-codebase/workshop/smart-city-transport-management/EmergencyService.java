@@ -1,3 +1,4 @@
+// Marker interface
 interface EmergencyService {
     
 }

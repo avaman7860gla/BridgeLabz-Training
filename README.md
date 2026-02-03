@@ -69,6 +69,7 @@ BridgeLabz-Training
 |     |    ├── collections
 |     |    ├── streams
 |     |    ├── stream-buzz
+|     |    ├── ocean-fleet
 |     |    ├── exceptions
 |     |    ├── regex-and-junit
 |     |    |     └── junit
@@ -993,4 +994,26 @@ BridgeLabz-Training
 
 ---
 
+###  Day 39: Multithreading & Scenario-Based Problem  
+**Executing tasks concurrently and managing performance data**
+
+- Studied **Multithreading in Java**
+- Topics covered:
+  - Introduction to multithreading
+  - Creating threads using **Thread class**
+  - Creating threads using **Runnable interface**
+  - Thread class vs Runnable interface
+  - Thread life cycle and states
+  - Thread methods and operations
+
+- Solved **scenario-based problem: OceanFleet Analytics**
+  - Designed a system to track cargo vessel performance
+  - Stored and retrieved vessel performance records efficiently
+  - Identified high-performing vessels
+  - Applied multithreading concepts for efficient data handling
+
+📌 **OceanFleet Analytics Scenario Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/ocean-fleet)
+
+📌 **Outcome:** Ability to build concurrent Java applications and manage performance data efficiently  
 

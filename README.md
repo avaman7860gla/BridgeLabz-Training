@@ -1037,5 +1037,20 @@ BridgeLabz-Training
 
 ---
 
+###  Day 41: Scenario-Based Problem – Music Playlist Manager  
+**Managing playlists and playback history**
+
+- Solved **scenario-based problem: Music Playlist Manager**
+- Implemented features:
+  - Used **LinkedList<Song>** to maintain playlist order
+  - Used **Stack<Song>** to track recently played songs
+  - Used **Set** to prevent duplicate songs
+  - Threw **SongAlreadyExistsException** for duplicate entries
+- Applied **OOP, Collections, and Exception Handling**
+
+📌 **Music Playlist Manager Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/MusicPlaylistManager.java)
+
+📌 **Outcome:** Ability to design a playlist management system using multiple data structures and custom exceptions  
 
 

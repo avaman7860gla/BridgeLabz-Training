@@ -1017,3 +1017,25 @@ BridgeLabz-Training
 
 📌 **Outcome:** Ability to build concurrent Java applications and manage performance data efficiently  
 
+---
+
+###  Day 40: Scenario-Based Problem – Online Classroom Attendance Tracker  
+**Managing attendance with collections and custom exceptions**
+
+- Solved **scenario-based problem: Online Classroom Attendance Tracker**
+- Implemented features:
+  - Used **Set<String>** to store student IDs and avoid duplicates
+  - Used **Map<SessionID, Set<StudentID>>** for session-wise attendance
+  - Created methods to mark, remove, and display attendance
+  - Threw **DuplicateAttendanceException** for duplicate entries
+- Applied **OOP, Collections, and Exception Handling**
+
+📌 **Online Classroom Attendance Tracker Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/OnlineAttendanceTracker.java)
+
+📌 **Outcome:** Ability to design robust attendance systems using Java collections and custom exceptions  
+
+---
+
+
+

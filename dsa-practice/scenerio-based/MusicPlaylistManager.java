@@ -95,6 +95,7 @@ class PlaylistManager{
     }
 
     // method to show history
+
     public void showHistory(){
         if(history.isEmpty()){
             System.out.println("No history");

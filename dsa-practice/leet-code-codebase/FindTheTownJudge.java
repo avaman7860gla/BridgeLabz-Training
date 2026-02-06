@@ -1,4 +1,4 @@
-public class FinfTheTownJudge {
+public class FindTheTownJudge {
     public int findJudge(int n, int[][] trust) {
         if(trust.length==0 && n==1)
             return 1;

@@ -114,6 +114,15 @@ BridgeLabz-Training
 |     │
 |     └── scenerio-based
 |
+├── multi-threading-practice
+|     ├── gcr-codebase
+|     |    └── multithreading  
+|     |
+|     ├── leet-code-codebase
+|     │
+|     └── scenerio-based
+|
+|
 ├── reviews
 
 
@@ -1053,4 +1062,20 @@ BridgeLabz-Training
 
 📌 **Outcome:** Ability to design a playlist management system using multiple data structures and custom exceptions  
 
+---
+
+###  Day 42: Multithreading Assignment Submission  
+**Finalizing concurrent programming concepts**
+
+- Submitted **Multithreading assignment**
+- Demonstrated understanding of:
+  - Thread creation and lifecycle
+  - Concurrent execution
+  - Thread coordination and safe execution
+- Reviewed multithreading concepts through implementation
+
+📌 **Multithreading Assignment** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice/gcr-codebase/multithreading)
+
+📌 **Outcome:** Ability to implement and manage concurrent tasks effectively in Java  
 

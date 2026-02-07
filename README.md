@@ -52,6 +52,7 @@ BridgeLabz-Training
 |     ├── gcr-codebase
 |     |    ├── linked-list
 |     |    ├── address-book-system
+|     |    |     └── sonarQube-result
 |     |    ├── stack-queue-hashmap-hashing-function
 |     |    ├── sorting-algorithms
 |     |    ├── factory-robot-hazard-analyzer
@@ -1078,4 +1079,29 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/multi-threading-practice/multi-threading-practice/gcr-codebase/multithreading)
 
 📌 **Outcome:** Ability to implement and manage concurrent tasks effectively in Java  
+
+---
+
+###  Day 43: Scenario-Based Problem & Code Quality Analysis  
+**Managing business logic and improving code quality**
+
+- Solved **scenario-based problem: Employee Leave Management System**
+  - Used **Map<EmployeeID, Employee>** to store employees
+  - Managed leave requests using **List<LeaveRequest>**
+  - Validated leave balance
+  - Implemented approve/reject logic using methods
+  - Threw **InsufficientLeaveBalanceException**
+- Applied **OOP, Collections, and Exception Handling**
+
+📌 **Employee Leave Management – Scenario Submission** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/EmployeeLeaveManagementSystem.java)
+
+- Performed **SonarQube analysis** on **Address Book problem**
+  - Analyzed code smells, bugs, and maintainability issues
+  - Reviewed quality metrics and best practices
+
+📌 **SonarQube Result Image (Address Book)** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/address-book-system/sonarQube-result)
+
+📌 **Outcome:** Ability to implement real-world business logic and improve code quality using static analysis tools  
 

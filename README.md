@@ -124,6 +124,21 @@ BridgeLabz-Training
 |     └── scenerio-based
 |
 |
+├── dbms-practice
+|     ├── gcr-codebase
+|     |    └── health-clinic-application
+|     |         └── HealthClinicApp
+|     |              ├── sql-file (contains .sql file for this problem)
+|     |              └── src
+|     |                   ├── app (contains main file)
+|     |                   ├── dao (contains data access objects file)
+|     |                   ├── model (contains model files)
+|     |                   └── util (contains utility file)
+|     |                          
+|     ├── leet-code-codebase
+|     │
+|     └── scenerio-based
+|
 ├── reviews
 
 
@@ -1104,4 +1119,29 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/address-book-system/sonarQube-result)
 
 📌 **Outcome:** Ability to implement real-world business logic and improve code quality using static analysis tools  
+
+---
+
+###  Day 44: DBMS Concepts & JDBC-Based Application  
+**Managing data efficiently and building persistent systems**
+
+- Learned **DBMS fundamentals**
+  - Introduction to databases
+  - Indexing concepts for faster data retrieval
+- Understood the importance of indexing in performance optimization
+
+- Solved **scenario-based problem: Health Clinic App**
+  - Registered patients
+  - Managed doctors and their specialties
+  - Scheduled appointments
+  - Tracked visit history and basic billing
+  - Persisted data using **JDBC with MySQL**
+- Built a **console-based application** integrating database operations
+
+📌 **Health Clinic App (JDBC Scenario Solution)** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dbms-practice/dbms-practice/gcr-codebase/health-clinic-application/HealthClinicApp/src)
+
+📌 **Outcome:** Ability to design database-backed applications and optimize data access using indexing  
+
+
 

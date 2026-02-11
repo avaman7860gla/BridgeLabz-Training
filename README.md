@@ -1143,5 +1143,34 @@ BridgeLabz-Training
 
 📌 **Outcome:** Ability to design database-backed applications and optimize data access using indexing  
 
+---
 
+###  Day 45: M1 Mock Exam Practice  
+**Strengthening core concepts through scenario-based problems**
+
+- Practiced for **M1 Mock Exam**
+- Solved scenario-based problems covering:
+  - OOP Concepts
+  - DSA (Data Structures & Algorithms)
+  - Collections Framework
+  - Java Streams
+- Focused on problem-solving, logic building, and code optimization
+
+📌 **Outcome:** Improved confidence and readiness for the M1 evaluation through integrated concept practice  
+
+---
+
+###  Day 46: M1 Mock Examination  
+**Assessment of core Java and problem-solving skills**
+
+- Appeared for **M1 Mock Examination**
+- Evaluation covered:
+  - OOP Concepts
+  - DSA
+  - Collections Framework
+  - Java Streams
+  - Scenario-based problem solving
+- Applied integrated knowledge under exam conditions
+
+📌 **Outcome:** Demonstrated readiness and practical understanding of core Java concepts through structured evaluation  
 

@@ -1174,3 +1174,24 @@ BridgeLabz-Training
 
 📌 **Outcome:** Demonstrated readiness and practical understanding of core Java concepts through structured evaluation  
 
+---
+
+###  Day 47: Scenario-Based Problem – Job Portal Resume Shortlisting System  
+**Ranking candidates using collections and comparators**
+
+- Solved **scenario-based problem: Job Portal Resume Shortlisting System**
+- Implemented features:
+  - Stored resumes using **List<Resume>**
+  - Managed required skills using **Set<String>**
+  - Ranked resumes based on matching skills
+  - Sorted resumes using **Comparator**
+  - Threw **InvalidResumeException** for invalid inputs
+- Applied **OOP, Collections, Sorting, and Exception Handling**
+
+📌 **Job Portal Resume Shortlisting Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/JobPortalResumeShortlisting.java)
+
+📌 **Outcome:** Ability to design a ranking system using collections, custom sorting, and validation logic  
+
+
+

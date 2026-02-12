@@ -1193,5 +1193,26 @@ BridgeLabz-Training
 
 📌 **Outcome:** Ability to design a ranking system using collections, custom sorting, and validation logic  
 
+---
+
+###  Day 48: Scenario-Based Problem – Event Feedback & Rating Analyzer  
+**Analyzing ratings using collections and validation**
+
+- Solved **scenario-based problem: Event Feedback & Rating Analyzer**
+- Implemented features:
+  - Stored feedback using **Map<EventID, List<Integer>>**
+  - Calculated average ratings
+  - Identified top-rated events
+  - Threw **InvalidRatingException** for ratings outside 1–5
+- Applied **OOP, Collections, and Exception Handling**
+
+📌 **Event Feedback & Rating Analyzer Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/EventFeedbackRatingAnalyzer.java)
+
+📌 **Outcome:** Ability to build a rating analysis system using maps, lists, and validation logic  
+
+---
+
+
 
 

@@ -1230,5 +1230,32 @@ BridgeLabz-Training
 
 📌 **Outcome:** Ability to design dynamic resource allocation systems using queues and maps  
 
+---
+
+### 📦 Day 50: Scenario-Based Problem & Java 8 Mini Project  
+**Managing shifts and applying functional programming**
+
+- Solved **scenario-based problem: Courier Staff Shift Scheduler**
+  - Stored staff using **List<Employee>**
+  - Assigned shifts using **Map<ShiftTime, List<Employee>>**
+  - Prevented duplicate shift assignments
+  - Threw **ShiftAlreadyAssignedException**
+- Applied **OOP, Collections, and Exception Handling**
+
+📌 **Courier Staff Shift Scheduler Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/CourierStaffShiftScheduler.java)
+
+
+- Completed **Mini Project: Online Course Enrollment Manager (Java 8)**
+  - Managed enrollment details (student, course, category, date)
+  - Filtered enrollments by course and category
+  - Grouped enrollments and counted per category
+  - Sorted enrollments by date
+  - Used **Streams API, Lambda Expressions, Method References, Collectors, Comparator**
+
+📌 **Online Course Enrollment Manager** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/OnlineCourseEnrollmentManager.java)
+
+📌 **Outcome:** Ability to design real-world systems and implement functional programming using Java 8 features  
 
 

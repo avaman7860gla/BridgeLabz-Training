@@ -1213,6 +1213,22 @@ BridgeLabz-Training
 
 ---
 
+###  Day 49: Scenario-Based Problem – Smart Parking Slot Allocation System  
+**Managing parking dynamically using collections**
+
+- Solved **scenario-based problem: Smart Parking Slot Allocation System**
+- Implemented features:
+  - Stored parking slots using **Map<Integer, ParkingSlot>**
+  - Managed waiting vehicles using **Queue<Vehicle>**
+  - Allocated nearest available slot automatically
+  - Designed OOP classes: `Vehicle`, `Car`, `Bike`, `ParkingSlot`
+  - Threw **NoParkingSlotAvailableException** when no slot is free
+- Applied **OOP, Collections, and Exception Handling**
+
+📌 **Smart Parking Slot Allocation Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/SmartParkingAllotmentSystem.java)
+
+📌 **Outcome:** Ability to design dynamic resource allocation systems using queues and maps  
 
 
 

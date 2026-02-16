@@ -52,6 +52,7 @@ BridgeLabz-Training
 |     ├── gcr-codebase
 |     |    ├── linked-list
 |     |    ├── address-book-system
+|     |    |     ├── addressbooksystem
 |     |    |     └── sonarQube-result
 |     |    ├── stack-queue-hashmap-hashing-function
 |     |    ├── sorting-algorithms
@@ -83,6 +84,8 @@ BridgeLabz-Training
 |     ├── leet-code-codebase
 |     │
 |     └── scenerio-based
+|           └── EmployeeWageComputationalProgram
+|                 └── EmployeeWageComputationalProblem
 |
 ├── io-programming-practice
 |     ├── gcr-codebase
@@ -1232,7 +1235,7 @@ BridgeLabz-Training
 
 ---
 
-### 📦 Day 50: Scenario-Based Problem & Java 8 Mini Project  
+###  Day 50: Scenario-Based Problem & Java 8 Mini Project  
 **Managing shifts and applying functional programming**
 
 - Solved **scenario-based problem: Courier Staff Shift Scheduler**
@@ -1257,5 +1260,29 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/OnlineCourseEnrollmentManager.java)
 
 📌 **Outcome:** Ability to design real-world systems and implement functional programming using Java 8 features  
+
+---
+
+###  Day 51: Project Enhancement & Java 8 Refactoring  
+**Improving existing applications with modern features**
+
+- Enhanced **Employee Wage Computation Project**
+  - Integrated **JUnit testing**
+  - Applied **Regex validation**
+  - Implemented **4-Layer Architecture (Presentation, Service, DAO, Model)**
+  
+📌 **Employee Wage Project (Enhanced Version)** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/collection-practice/collection-practice/scenerio-based/EmployeeWageComputationalProgram)
+
+
+- Completed **Address Book System (Java 8 Version)**
+  - Refactored previous UC12 solution using **Java 8 features**
+  - Used Streams, Lambda expressions, and functional operations
+  - Improved readability and performance
+
+📌 **Address Book System – Java 8 Version** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/address-book-system/addressbooksystem)
+
+📌 **Outcome:** Ability to refactor legacy code using modern Java practices and layered architecture  
 
 

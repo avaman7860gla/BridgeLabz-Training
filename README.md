@@ -1285,4 +1285,31 @@ BridgeLabz-Training
 
 📌 **Outcome:** Ability to refactor legacy code using modern Java practices and layered architecture  
 
+---
+
+###  Day 52: Scenario-Based Problem Solving  
+**Managing resources and monitoring systems**
+
+- Solved **Disaster Relief Resource Allocation System**
+  - Stored relief centers using **Map<String, ReliefCenter>**
+  - Managed resources using **HashMap<String, Integer>**
+  - Handled area requests using **Queue<AreaRequest>**
+  - Allocated resources using FIFO logic
+  - Threw **InsufficientResourceException** for low stock
+  - Generated allocation report
+
+📌 **Disaster Relief System Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/DisasterReliefAllocationSystem.java)
+
+
+- Solved **Smart Water Tank Monitoring System**
+  - Stored tanks using **List<WaterTank>**
+  - Calculated usage percentage and generated alerts (<20%)
+  - Threw **InvalidWaterLevelException** for overflow values
+  - Sorted tanks using **Comparator**
+
+📌 **Water Tank Monitoring Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/SmartWaterTankMonitoringSystem.java)
+
+📌 **Outcome:** Ability to design monitoring and allocation systems using collections, sorting, and exception handling  
 

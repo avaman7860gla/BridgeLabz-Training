@@ -1313,3 +1313,25 @@ BridgeLabz-Training
 
 📌 **Outcome:** Ability to design monitoring and allocation systems using collections, sorting, and exception handling  
 
+---
+
+###  Day 53: Mock Assessment & Scenario-Based Problem  
+**Evaluating performance and ranking participants**
+
+- Attempted **Capgemini M1 Mock Test**
+  - Practiced integrated concepts under assessment conditions
+
+- Solved **Online Hackathon Submission Evaluator**
+  - Stored participants using **List<Participant>**
+  - Stored test case results using **Map<QuestionID, Boolean>**
+  - Calculated score using `calculateScore()` method
+  - Ranked participants using **Comparator**
+  - Threw **LateSubmissionException**
+  - Displayed leaderboard
+
+📌 **Hackathon Submission Evaluator Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/OnlineHackathonSubmissionEvaluator.java)
+
+📌 **Outcome:** Ability to design evaluation and ranking systems using collections, sorting, and exception handling  
+
+

@@ -1334,4 +1334,26 @@ BridgeLabz-Training
 
 📌 **Outcome:** Ability to design evaluation and ranking systems using collections, sorting, and exception handling  
 
+---
+
+###  Day 54: Scenario-Based Problem – EV Charging Station Management System  
+**Managing bookings and dynamic pricing**
+
+- Solved **EV Charging Station Management System**
+  - Stored charging slots using **Map<Integer, ChargingSlot>**
+  - Managed waiting vehicles using **Queue<Vehicle>**
+  - Calculated billing based on units consumed
+  - Applied **polymorphism** using `PricingStrategy` interface for peak-hour pricing
+  - Threw **NoChargingSlotAvailableException**
+- Applied **OOP, Collections, Interfaces, and Exception Handling**
+
+📌 **EV Charging Station Management Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/EVChargingStationManagementSystem.java)
+
+📌 **Outcome:** Ability to implement dynamic pricing and resource allocation systems using polymorphism and queues  
+
+---
+
+
+
 

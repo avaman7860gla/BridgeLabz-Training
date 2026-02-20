@@ -1354,6 +1354,32 @@ BridgeLabz-Training
 
 ---
 
+###  Day 55: Scenario-Based Problem Solving  
+**Scheduling services and monitoring environmental conditions**
 
+- Solved **Online Doctor Consultation Scheduler**
+  - Stored doctors using **Map<Specialization, List<Doctor>>**
+  - Booked appointments and prevented double booking
+  - Maintained consultation history
+  - Threw **SlotUnavailableException**
+- Applied **OOP, Encapsulation, Collections, and Exception Handling**
+
+📌 **Doctor Consultation Scheduler Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/OnlineDoctorConsultationScheduler.java)
+
+
+- Solved **Warehouse Cold Storage Temperature Monitor**
+  - Stored rooms using **Map<RoomID, TemperatureLog>**
+  - Maintained readings using **List<Double>**
+  - Calculated daily average temperature
+  - Generated alerts for unsafe temperature range
+  - Threw **SensorFailureException**
+
+📌 **Cold Storage Monitor Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/WarehouseColdStorageTemperatureMonitor.java)
+
+📌 **Outcome:** Ability to design scheduling and monitoring systems using collections, validation, and exception handling  
+
+---
 
 

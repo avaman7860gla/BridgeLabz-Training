@@ -1382,4 +1382,22 @@ BridgeLabz-Training
 
 ---
 
+###  Day 56: Scenario-Based Problem – Railway Platform Allocation System  
+**Managing real-time platform scheduling**
+
+- Solved **Railway Platform Allocation System**
+  - Stored platforms using **Map<Integer, Platform>**
+  - Managed incoming trains using **PriorityQueue<Train>** (based on arrival time)
+  - Allocated nearest available platform dynamically
+  - Prevented platform conflicts
+  - Threw **PlatformUnavailableException**
+- Applied **Map, PriorityQueue, Comparable, OOP, and Exception Handling**
+
+📌 **Railway Platform Allocation Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/RailwayPlatformAllocationSystem.java)
+
+📌 **Outcome:** Ability to design priority-based scheduling systems using advanced collections and custom exceptions  
+
+---
+
 

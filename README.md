@@ -1400,4 +1400,18 @@ BridgeLabz-Training
 
 ---
 
+###  Day 57: Scenario-Based Problem – Digital Subscription Renewal System  
+**Managing renewals and dynamic pricing**
 
+- Solved **Digital Subscription Renewal System**
+  - Stored users using **List<User>**
+  - Auto-renewed active subscriptions
+  - Identified expired accounts using date validation
+  - Applied discount logic using **Strategy Pattern**
+  - Threw **PaymentDeclinedException**
+- Used **OOP, Date Handling, Exception Handling, and Java 8 Streams (optional)**
+
+📌 **Digital Subscription Renewal Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/DigitalSubscriptionRenewalSystem.java)
+
+📌 **Outcome:** Ability to implement renewal workflows with strategy-based pricing and subscription validation  

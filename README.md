@@ -1452,3 +1452,18 @@ BridgeLabz-Training
 
 ---
 
+###  Day 60: Scenario-Based Problem – Smart Traffic Fine Collection System  
+**Automating violation tracking and fine calculation**
+
+- Solved **Smart Traffic Fine Collection System**
+  - Stored violations using **Map<VehicleNumber, List<Violation>>**
+  - Calculated fines based on violation type
+  - Applied **polymorphism** for repeat offender extra penalties
+  - Generated monthly violation and fine reports
+  - Threw **InvalidVehicleException** for invalid vehicle records
+- Applied **Map, List, Polymorphism, and Exception Handling**
+
+📌 **Smart Traffic Fine Collection System Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/SmartTrafficFineSystem.java)
+
+📌 **Outcome:** Ability to design automated fine management systems using collections and polymorphic logic  

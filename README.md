@@ -1415,3 +1415,40 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/DigitalSubscriptionRenewalSystem.java)
 
 📌 **Outcome:** Ability to implement renewal workflows with strategy-based pricing and subscription validation  
+
+---
+
+###  Day 58: M1 Exam Preparation & Concept Revision  
+**Strengthening problem-solving and core fundamentals**
+
+- Practiced for **M1 Examination**
+- Solved multiple **scenario-based problems**
+- Revised key concepts:
+  - OOP Principles
+  - Collections Framework
+  - DSA Concepts
+  - Java 8 Features
+  - Exception Handling
+  - Design Patterns
+- Focused on logic building, optimization, and clean coding
+
+📌 **Outcome:** Improved readiness and confidence for M1 exam through integrated revision and practice  
+
+---
+
+###  Day 59: M1 Examination – Capgemini  
+**Demonstrating integrated Java knowledge under assessment**
+
+- Appeared for **M1 Examination conducted by Capgemini**
+- Assessment covered:
+  - OOP Concepts
+  - DSA & Collections
+  - Java 8 Features
+  - Exception Handling
+  - Scenario-based problem solving
+- Applied structured logic and optimized coding approach during evaluation
+
+📌 **Outcome:** Successfully demonstrated practical understanding of core Java and problem-solving skills under exam conditions  
+
+---
+

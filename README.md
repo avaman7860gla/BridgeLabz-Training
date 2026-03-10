@@ -1467,3 +1467,32 @@ BridgeLabz-Training
 [Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenerio-based/SmartTrafficFineSystem.java)
 
 📌 **Outcome:** Ability to design automated fine management systems using collections and polymorphic logic  
+
+---
+
+### Day 61 & 62: Quantity Measurement App  
+**Building a smart unit conversion tool for multiple measurement types**
+
+- Developed **Quantity Measurement Conversion System**
+  - Converted units for **length, weight, temperature, and volume**
+  - Implemented conversion logic using **methods and mathematical formulas**
+  - Allowed users to input values and select units for conversion
+  - Displayed accurate converted results instantly
+- Applied **Java methods, conditional statements, and arithmetic operations**
+
+📌 **Outcome:** Improved ability to design practical applications involving measurement conversions and logical processing.
+
+---
+
+### Day 63: Scenario-Based Problem – Document Redaction Engine  
+**Automating sensitive data masking using Regular Expressions**
+
+- Solved **Document Redaction Engine**
+  - Masked **National ID numbers** using regex pattern `ID:[A-Z]{3}[0-9]{6}`
+  - Masked **Bank Account numbers** while preserving the last 4 digits using capturing groups
+  - Normalized **repeated consecutive words** using regex backreferences
+  - Removed excessive **trailing special characters (!, ?, .)** using regex quantifiers
+  - Applied transformations in a strict rule-based processing order
+- Applied **Regular Expressions, Capturing Groups, Backreferences, and Quantifiers**
+
+📌 **Outcome:** Strengthened skills in advanced regex processing, pattern detection, and automated text redaction systems used in legal and document security applications.

@@ -1496,3 +1496,36 @@ BridgeLabz-Training
 - Applied **Regular Expressions, Capturing Groups, Backreferences, and Quantifiers**
 
 📌 **Outcome:** Strengthened skills in advanced regex processing, pattern detection, and automated text redaction systems used in legal and document security applications.
+
+---
+
+### Day 64: Revision – Core Java Concepts for Evaluation  
+**Revising advanced Java concepts for mentor evaluation**
+
+- Revised **Core Java concepts** in preparation for mentor evaluation
+  - Practiced **Multithreading** concepts such as thread creation, synchronization, and lifecycle
+  - Reviewed **Java Streams API** for functional-style data processing
+  - Studied **JDBC (Java Database Connectivity)** for database interaction
+  - Strengthened understanding of **thread management and concurrent execution**
+  - Revisited **stream operations like filter, map, and collect**
+
+📌 **Outcome:** Strengthened understanding of advanced Java concepts required for real-world backend development and technical evaluations.
+
+---
+
+### Day 65: Project Implementation – Address Book App (UC1–UC12)  
+**Performing CRUD operations using SQL and Postman**
+
+- Implemented **Address Book Application** up to **Use Case 12 (UC12)**
+  - Designed and managed **Address Book database using SQL**
+  - Implemented **CRUD operations (Create, Read, Update, Delete)**
+  - Tested API endpoints using **Postman**
+  - Performed **data insertion, retrieval, modification, and deletion**
+  - Structured tables to manage contact details efficiently
+
+📌 **Outcome:** Gained practical experience in database operations, API testing with Postman, and backend data management using SQL.
+
+
+
+
+

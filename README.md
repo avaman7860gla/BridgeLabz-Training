@@ -1525,7 +1525,19 @@ BridgeLabz-Training
 
 📌 **Outcome:** Gained practical experience in database operations, API testing with Postman, and backend data management using SQL.
 
+---
 
+###  Day 66: Quantity Measurement App Development  
+**Enhancing unit conversion and measurement logic**
 
+- Continued development of **Quantity Measurement Application**
+- Focused on:
+  - Improving unit conversion logic
+  - Implementing precise measurement comparisons
+  - Refactoring code for better modularity and readability
+- Applied **OOP principles, clean architecture, and testing practices**
 
+📌 **Outcome:** Improved design and accuracy of a measurement conversion system using structured OOP practices  
+
+---
 

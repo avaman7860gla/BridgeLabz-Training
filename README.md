@@ -1527,7 +1527,7 @@ BridgeLabz-Training
 
 ---
 
-###  Day 66: Quantity Measurement App Development  
+###  Day 66 & 67: Quantity Measurement App Development  
 **Enhancing unit conversion and measurement logic**
 
 - Continued development of **Quantity Measurement Application**

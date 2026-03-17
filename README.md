@@ -28,6 +28,7 @@ BridgeLabz-Training
 |    │   ├── flip-key-logical-problem
 |    │   ├── arrays
 |    │   ├── strings
+|    │   ├── M1_Practice_Problem
 |    │   └── extras
 |    │
 |    ├── leet-code-codebase
@@ -1541,3 +1542,19 @@ BridgeLabz-Training
 
 ---
 
+### Day 68 & 69: Practice Set – M1 Core Java Problems  
+**Strengthening fundamentals through hands-on problem solving**
+
+- Completed **M1 Practice Problems** based on **Core Java concepts**
+  - Solved problems covering **OOP concepts, loops, conditionals, and methods**
+  - Practiced **class design and object creation**
+  - Applied **encapsulation and basic abstraction principles**
+  - Strengthened logic building through **problem-solving exercises**
+  - Improved understanding of **Java syntax and program structure**
+
+- Applied **Core Java, OOPs, Control Statements, and Problem-Solving Skills**
+
+📌 **M1 Practice Problems Solution** 👉  
+[Click Here](https://github.com/avaman7860gla/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/M1_Practice_Problem)
+
+📌 **Outcome:** Built a strong foundation in Core Java concepts and improved problem-solving ability through consistent practice.

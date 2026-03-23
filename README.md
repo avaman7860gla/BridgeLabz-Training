@@ -1578,4 +1578,16 @@ BridgeLabz-Training
 
 📌 **Outcome:** Built a strong foundation in Core Java concepts and improved problem-solving ability through consistent practice.
 
+---
 
+###  Day 72 & 73: Quantity Measurement App Development  
+**Enhancing unit conversion and measurement logic**
+
+- Continued development of **Quantity Measurement Application (Using SpringBoot)** 
+- Focused on:
+  - Improving unit conversion logic
+  - Implementing precise measurement comparisons
+  - Refactoring code for better modularity and readability
+- Applied **OOP principles, clean architecture, and testing practices**
+
+📌 **Outcome:** Improved design and accuracy of a measurement conversion system using structured OOP practices

@@ -1591,3 +1591,24 @@ BridgeLabz-Training
 - Applied **OOP principles, clean architecture, and testing practices**
 
 📌 **Outcome:** Improved design and accuracy of a measurement conversion system using structured OOP practices
+
+---
+
+### Day 75: Project Enhancement – Quantity Measurement App (Security Integration)  
+**Implementing authentication and authorization using Spring Security**
+
+- Continued working on **Quantity Measurement App**
+  - Integrated **Spring Security** for application protection
+  - Implemented **JWT (JSON Web Token)** based authentication
+  - Added **OAuth-2.0** for secure authorization
+  - Secured API endpoints to allow only authenticated access
+  - Managed user roles and access control
+
+- Applied **Spring Boot, Spring Security, JWT, and OAuth-2.0**
+
+📌 **Outcome:** Gained hands-on experience in securing backend applications using JWT and OAuth 2.0, improving understanding of authentication and authorization mechanisms.
+
+---
+
+
+

@@ -1594,7 +1594,7 @@ BridgeLabz-Training
 
 ---
 
-### Day 75: Project Enhancement – Quantity Measurement App (Security Integration)  
+### Day 75 & 76: Project Enhancement – Quantity Measurement App (Security Integration)  
 **Implementing authentication and authorization using Spring Security**
 
 - Continued working on **Quantity Measurement App**

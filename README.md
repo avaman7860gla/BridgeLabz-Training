@@ -1610,5 +1610,20 @@ BridgeLabz-Training
 
 ---
 
+### Day 77: Project Enhancement – Quantity Measurement App (Frontend Development)  
+**Building interactive UI using HTML, CSS, and JavaScript**
+
+- Continued working on **Quantity Measurement App (QMA)**
+  - Developed **frontend UI** using HTML, CSS, and JavaScript
+  - Designed **responsive and user-friendly interface**
+  - Implemented **input fields and unit selection components**
+  - Integrated **conversion logic with UI interactions**
+  - Enhanced user experience with **dynamic updates and styling**
+
+- Applied **HTML, CSS, JavaScript, and DOM Manipulation**
+
+📌 **Outcome:** Improved frontend development skills by building an interactive and responsive UI integrated with real-time conversion logic.
+
+---
 
 

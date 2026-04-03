@@ -1626,4 +1626,35 @@ BridgeLabz-Training
 
 ---
 
+### Day 78, 79 & 80: Project Enhancement – Quantity Measurement App (Frontend Development and frontend-backend connection)  
+**Building interactive UI using HTML, CSS, JavaScript, React**
+
+- Continued working on **Quantity Measurement App (QMA)**
+  - Developed **frontend UI** using HTML, CSS, JavaScript and React with their connection with backend
+  - Designed **responsive and user-friendly interface**
+  - Implemented **input fields and unit selection components**
+  - Integrated **conversion logic with UI interactions**
+  - Enhanced user experience with **dynamic updates and styling**
+
+- Applied **HTML, CSS JavaScript, React, and DOM Manipulation**
+
+📌 **Outcome:** Improved frontend development skills by building an interactive and responsive UI integrated with real-time conversion logic.
+
+---
+
+### Day 81 & 82: Deployment – Quantity Measurement App on AWS  
+**Deploying full-stack application on cloud infrastructure**
+
+- Worked on deploying **Quantity Measurement App (QMA)** on AWS
+  - Configured **AWS services** for application hosting
+  - Deployed backend and frontend to the cloud
+  - Managed **server setup and environment configuration**
+  - Ensured application accessibility over the internet
+  - Handled **basic deployment and hosting challenges**
+
+- Applied **AWS, Cloud Deployment, and Environment Configuration**
+
+📌 **Outcome:** Gained hands-on experience in deploying full-stack applications on AWS and understanding real-world cloud infrastructure setup.
+
+
 

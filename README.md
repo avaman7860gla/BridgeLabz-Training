@@ -1656,5 +1656,37 @@ BridgeLabz-Training
 
 📌 **Outcome:** Gained hands-on experience in deploying full-stack applications on AWS and understanding real-world cloud infrastructure setup.
 
+---
 
+### Day 83: Evaluation – M1 Mock (Core Java Assessment)  
+**Pen-and-paper evaluation on Core Java concepts**
 
+- Attempted **M1 Mock Assessment** conducted by BridgeLabz
+  - Solved questions based on **Core Java fundamentals**
+  - Covered topics like **OOP concepts, loops, conditionals, and methods**
+  - Applied **logical problem-solving and code tracing skills**
+  - Focused on writing **accurate and optimized solutions on paper**
+
+- Applied **Core Java, Problem-Solving, and Logical Reasoning**
+- **Assessment Type:** Pen-and-Paper Mock Test  
+
+📌 **Outcome:** Strengthened conceptual understanding of Core Java and improved ability to solve problems in an evaluation environment.
+
+---
+
+### Day 84 & 85: Learning – Microservices Architecture  
+**Exploring microservices and planning integration with QMA**
+
+- Learned **Microservices Architecture concepts**
+  - Understood **monolithic vs microservices architecture**
+  - Explored **service decomposition and independent deployment**
+  - Studied **API communication between services**
+  - Analyzed scalability and flexibility benefits of microservices
+  - Researched ways to **apply microservices to Quantity Measurement App (QMA)**
+
+- Applied **Microservices Concepts, System Design, and API Communication**
+- **Focus Area:** Designing scalable and modular application architecture  
+
+📌 **Outcome:** Gained understanding of microservices and identified strategies to transform QMA into a scalable, service-based architecture.
+
+---

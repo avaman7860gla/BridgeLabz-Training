@@ -1690,3 +1690,17 @@ BridgeLabz-Training
 📌 **Outcome:** Gained understanding of microservices and identified strategies to transform QMA into a scalable, service-based architecture.
 
 ---
+
+### Day 86: Implementation – Microservices in Quantity Measurement App  
+**Applying microservices architecture to QMA**
+
+- Implemented **Microservices Architecture** in **Quantity Measurement App (QMA)**
+  - Broke down monolithic structure into **independent services**
+  - Designed separate services for **conversion logic, authentication, and user management**
+  - Enabled **API-based communication** between services
+  - Improved **scalability and modularity** of the application
+  - Structured services for **independent deployment and maintenance**
+
+- Applied **Microservices, REST APIs, and System Design Principles**
+
+📌 **Outcome:** Gained practical experience in implementing microservices architecture and transforming a monolithic application into a scalable distributed system.

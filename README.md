@@ -1691,7 +1691,7 @@ BridgeLabz-Training
 
 ---
 
-### Day 86: Implementation – Microservices in Quantity Measurement App  
+### Day 86 & 87: Implementation – Microservices in Quantity Measurement App  
 **Applying microservices architecture to QMA**
 
 - Implemented **Microservices Architecture** in **Quantity Measurement App (QMA)**
@@ -1704,3 +1704,51 @@ BridgeLabz-Training
 - Applied **Microservices, REST APIs, and System Design Principles**
 
 📌 **Outcome:** Gained practical experience in implementing microservices architecture and transforming a monolithic application into a scalable distributed system.
+
+---
+
+### Day 88: Evaluation – M1 Re-Assessment  
+**Re-assessment on Core Java concepts and problem-solving**
+
+- Attempted **M1 Re-Assessment** conducted by Capgemini
+  - Solved problems based on **Core Java fundamentals**
+  - Covered **OOP concepts, loops, conditionals, and logic building**
+  - Applied **analytical thinking and problem-solving skills**
+  - Focused on improving accuracy and efficiency under evaluation conditions
+
+- Applied **Core Java, Logical Reasoning, and Problem-Solving**
+
+---
+
+### Day 89 & 90: Learning – Advanced Microservices Concepts  
+**Deepening understanding of microservices architecture**
+
+- Continued learning **Microservices Architecture**
+  - Explored **advanced microservices design patterns**
+  - Studied **service communication (REST, API Gateway)**
+  - Learned about **service discovery and load balancing**
+  - Understood **fault tolerance and resilience strategies**
+  - Analyzed best practices for **scalable distributed systems**
+
+- Applied **Microservices, Distributed Systems, and System Design** 
+
+📌 **Outcome:** Strengthened knowledge of advanced microservices concepts and their real-world applications in modern backend systems.
+
+---
+
+### Day 91: Implementation – Expanding Microservices in QMA  
+**Adding and enhancing services in Quantity Measurement App**
+
+- Continued working on **Quantity Measurement App (QMA)**
+  - Implemented additional **microservices** to extend application functionality
+  - Enhanced **service separation and modular design**
+  - Improved **API communication between services**
+  - Focused on **scalability and maintainability**
+  - Refined overall **system architecture**
+
+- Applied **Microservices, REST APIs, and Modular Architecture**
+
+📌 **Outcome:** Gained deeper hands-on experience in building and scaling microservices-based applications with improved architecture and service management.
+
+---
+

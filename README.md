@@ -1752,3 +1752,21 @@ BridgeLabz-Training
 
 ---
 
+### Day 92: Project Completion – Quantity Measurement App (QMA)  
+**Finalizing and completing the full-stack microservices-based application**
+
+- Successfully completed **Quantity Measurement App (QMA)**
+  - Implemented **unit conversion system** for multiple measurement types
+  - Developed **frontend** using HTML, CSS, and JavaScript
+  - Built **secure backend** using Spring Boot with JWT and OAuth 2.0
+  - Applied **microservices architecture** for scalability and modularity
+  - Deployed application on **AWS cloud platform**
+  - Performed final **testing, debugging, and optimization**
+
+- Applied **Full-Stack Development, Microservices, Spring Security, AWS Deployment**
+
+📌 **Outcome:** Successfully built and deployed a scalable, secure, and fully functional real-world application, gaining end-to-end development experience from design to deployment.
+
+---
+
+
